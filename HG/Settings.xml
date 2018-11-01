@@ -32,16 +32,16 @@ Arlington, MA 02474-2909
 			<InspectorOtherLicense><![CDATA[Wood Destroying Insect]]></InspectorOtherLicense>
 			<InspectorPestLicense><![CDATA[90143]]></InspectorPestLicense>
 			<InspectorRadonLicense><![CDATA[107920 RT]]></InspectorRadonLicense>
-			<PATH><![CDATA[C:\Users\jmason\Google Drive\HG]]></PATH>
+			<PATH><![CDATA[C:\Users\jmason\Documents\GitHub\mkcassociates\HG]]></PATH>
 			<PrintFileDir><![CDATA[C:\Users\jmason\Desktop]]></PrintFileDir>
 			<SHGIName><![CDATA[jack@mkchi.com]]></SHGIName>
 			<SHGIPassword><![CDATA[j9799106]]></SHGIPassword>
 			<lastAgreement><![CDATA[C:\Users\jmason\Documents\HomeGauge\html5\agreement.html]]></lastAgreement>
 			<lastAgreementDesc><![CDATA[Agreement]]></lastAgreementDesc>
-			<lastTemplate><![CDATA[MKCQ4e18.ht5]]></lastTemplate>
-			<lastTemplateCat><![CDATA[Residential]]></lastTemplateCat>
-			<picDir><![CDATA[C:\Users\jmason\Documents\Inspections\2018\2018.10\7 Lowell Terrace 20181015]]></picDir>
-			<picDir2><![CDATA[C:\Users\jmason\Google Drive\HG\Drawings]]></picDir2>
+			<lastTemplate><![CDATA[MKCQ4i18 githubtest.ht5]]></lastTemplate>
+			<lastTemplateCat><![CDATA[mkcassociates]]></lastTemplateCat>
+			<picDir><![CDATA[C:\Users\jmason\Documents\Inspections\2018\2018.10\512 Auburn St 20181028]]></picDir>
+			<picDir2><![CDATA[C:\Users\jmason\Documents\HomeGauge\Drawings]]></picDir2>
 		</Strings>
 		<Ints>
 			<AllowIIWrap>1</AllowIIWrap>
@@ -235,7 +235,8 @@ Arlington, MA 02474-2909
 			<ClientSPACECity14><![CDATA[Wakefield]]></ClientSPACECity14>
 			<ClientSPACECity15><![CDATA[Medford]]></ClientSPACECity15>
 			<ClientSPACECity16><![CDATA[MARSHFIELD]]></ClientSPACECity16>
-			<ClientSPACECity17><![CDATA[]]></ClientSPACECity17>
+			<ClientSPACECity17><![CDATA[Revere]]></ClientSPACECity17>
+			<ClientSPACECity18><![CDATA[]]></ClientSPACECity18>
 			<ClientSPACECity2><![CDATA[Cambridge]]></ClientSPACECity2>
 			<ClientSPACECity3><![CDATA[East Boston]]></ClientSPACECity3>
 			<ClientSPACECity4><![CDATA[boston]]></ClientSPACECity4>
@@ -317,7 +318,8 @@ Arlington, MA 02474-2909
 			<InspectionSPACECity123><![CDATA[Southborough]]></InspectionSPACECity123>
 			<InspectionSPACECity124><![CDATA[Concord]]></InspectionSPACECity124>
 			<InspectionSPACECity125><![CDATA[Duxbury]]></InspectionSPACECity125>
-			<InspectionSPACECity126><![CDATA[]]></InspectionSPACECity126>
+			<InspectionSPACECity126><![CDATA[Auburndale]]></InspectionSPACECity126>
+			<InspectionSPACECity127><![CDATA[Sametown]]></InspectionSPACECity127>
 			<InspectionSPACECity13><![CDATA[Abington]]></InspectionSPACECity13>
 			<InspectionSPACECity14><![CDATA[Grafton]]></InspectionSPACECity14>
 			<InspectionSPACECity15><![CDATA[Ashland]]></InspectionSPACECity15>
