@@ -1,0 +1,245 @@
+/* Stylesheet: Format3 Modern Gradient */
+
+/* 
+hgImageInclude("Modern Gradient Icons\modern-gradient-headerbk.png", "Modern Gradient Icons\modern-gradient-sectionbk.png", "Modern Gradient Icons\modern-gradient-sectionbksm.png", "Modern Gradient Icons\modern-gradient-bodybk.png")
+*/
+
+body, th, td, table {
+	font-family: "Lucida Grande", Verdana, Tahoma, Arial, sans-serif;
+	}
+
+a:link {text-decoration: underline; color: #484848;}
+a:visited {text-decoration: underline; color: #484848;}
+a:hover {text-decoration: none; }
+
+@media print {
+	.screen-page-spacer {display: none;}
+	.pic-box {VERTICAL-ALIGN: top; TEXT-ALIGN: left;}
+	.pic-wrap {VERTICAL-ALIGN: top; TEXT-ALIGN: left;}
+	.pdf-picture-break { display:block !important; clear:both; }
+	video, .video-js { display:none !important; }
+	.novideoimage { position: relative; } 
+	.novideoimage .poster { border:solid 1px #000; top: 0; left: 0; z-index : 0; }
+	.novideoimage .teaser { position: absolute; top: 0; left: 0; z-index : 1;}
+	.vid-box, .vid-box-centered  { border:none !important; }
+}
+	
+@media screen {
+	body {
+  		background-color: #ddd; background-image:url(modern-gradient-bodybk.png); background-repeat:repeat-y;
+	}
+	.screen-page {width: 92%; background-color:#fff; border: #4c4c4c 2px solid; margin-left: auto; margin-right:auto; padding:10px;}
+	.screen-page-spacer {vertical-align: center; text-align: center; margin-top: 10px; margin-bottom: 10px; padding: 10px 0 10px 0; font-size: 16px; font-weight:bold;}
+	.screen-page-spacer  span {background-color: #555; padding:2px;}
+	.screen-page-spacer  a {color: #fff; margin-left:10px; margin-right:10px; text-decoration: none; }
+	.screen-page-spacer  a:hover {text-decoration: underline; color:  #ddd;}
+	.pic-box {BACKGROUND-COLOR: #999; VERTICAL-ALIGN: top; COLOR: white; TEXT-ALIGN: left;}
+	.pic-wrap {BACKGROUND-COLOR: #999; VERTICAL-ALIGN: top; COLOR: white; TEXT-ALIGN: left;}
+	.novideoimage { display:none; } 
+}
+
+
+.page-break  { margin: 1px; padding: 1px; }
+
+@page {
+	size: US-Letter;
+	margin: 40pt 25pt 40pt 25pt;
+	padding: 5pt 5pt;
+	@bottom { content: flow(pdffooter); }
+	@top { content: flow(pdfheader); }
+}
+
+.page-num { content: counter(page); }
+.pages-num { content: counter(pages); }
+
+.pdf-header { flow: static(pdfheader);}
+.pdf-footer { flow: static(pdffooter);}
+
+.reporttoc a::after {
+  content: leader('.') target-counter(attr(href), page);
+  font-style: normal;
+}
+
+.reporttoc ul, .reporttoc li {
+  list-style: none;
+  margin: 0;
+  padding: 4px;
+}
+
+.reporttoc a { prince-bookmark-target: attr(href); prince-bookmark-level: 1 }
+
+h1 { prince-bookmark-level: none }
+h2 { prince-bookmark-level: none }
+h3 { prince-bookmark-level: none }
+h4 { prince-bookmark-level: none }
+h5 { prince-bookmark-level: none }
+h6 { prince-bookmark-level: none }
+
+
+h2 {color: #000; font-size: 18pt; background-color:#ddd; border-top: solid 2px #000; border-bottom: solid 2px #000; font-weight: bold; background-image:url(modern-gradient-sectionbk.png); background-repeat:repeat-x;   }
+
+thead { display:table-header-group }
+tfoot { display:table-footer-group }
+
+
+.pic-table div { page-break-after: avoid; }
+.pic-table {  }
+.pic-table-centered{ width: 100%; }
+.pic-box { text-align: center; padding: 5px; vertical-align:top; display: inline-block; page-break-inside: avoid !important;
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.pic-wrap { text-align: left; padding: 5px; vertical-align:top; display: inline-block; page-break-inside: avoid !important;
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.comments-picture {	BORDER: 2px solid; MARGIN: 1px auto; }
+
+.vid-box { margin-bottom:4px; border:solid 1px; }
+.vid-box-centered { margin-bottom:4px; margin-left:auto; margin-right:auto; border:solid 1px; }
+
+
+center table.pic-table {	margin-left:auto; margin-right:auto;}
+center table.pic-table-centered { width:100%}
+
+/*For 4.1*/
+/*center table.pic-table {	margin-left:auto; margin-right:auto;}
+center table.pic-table-centered { width:100%}
+*/
+
+/* mostly used on cover pages */
+.cover-table-outer { width:100%; page-break-inside: avoid; }
+.cover-table { width:100%; border: thin solid #0000FF; padding: 0.1cm; }
+.cover-table-padded { padding: 0.2cm; }
+.cover-table-pic { position:absolute; right:5% }
+.cover-col-vert { vertical-align: text-top; text-align: center; background-color: #C4DBFF; }
+.reverse-header { background-color: #C4DBFF; color: white; padding: 0.05cm; font-size: 12pt; }
+
+/* next 2 only used on premium style cover */
+.tablestyle {BORDER-TOP: #000 2px solid; BORDER-BOTTOM: #000 2px solid; background-color:#ddd; MARGIN-LEFT: auto; COLOR: #000; MARGIN-RIGHT: auto; }
+.covertable {BACKGROUND-COLOR: #ddd;background-image:url(modern-gradient-headerbk.png); background-repeat:repeat-x; }
+.divstyle {BORDER-TOP: #000 3px solid;  MARGIN-LEFT: auto;  MARGIN-RIGHT: auto; }
+
+.cover-tex { text-align: center; font-size: 10pt; }
+.cover-tex-large { text-align: center; font-size: 12pt; }
+
+/* used for invoice */
+.invoice-table {page-break-inside: avoid; width: 100%;}
+.invoice-col-r {width: 50%; text-align: right;}
+.invoice-col-l {width: 50%; text-align: left;}
+.invoice-form {page-break-inside: avoid; width: 100%; margin-left: auto; margin-right: auto;}
+.invoice-form-col {width: 50%; vertical-align: top; padding-left:0.25cm; padding-right:0.25cm; border: thin solid black;}
+.invoice-form-col-header {width: 50%; vertical-align: top; padding-left:0.25cm; padding-right:0.25cm;  font-size: 14pt; line-height: 41px; border-top: solid 1px #928b79; border-bottom: solid 1px #928b79; }
+
+/* used for headers */
+.header-number { margin-left:5pt;}
+.header-image { margin-left:10pt; margin-bottom: 5pt; margin-right:0pt; float:right; }
+
+/* used for the general styles and materials section on the info page*/
+.gen-intro { font-size: 10pt !important;}
+.sm-gen-header { color: black; font-size: 9pt; font-weight : bold;  }
+.sm-gen-answer { color: black; font-size: 9pt;	 }
+.sm-value { font-family: "Courier New", Courier, monospace; font-weight: bold; color:#F00; }
+
+/* disclaimer text found at the begining of each major section */
+.introtext  { font-size: 9pt !important;  margin-top: 5px; margin-left: 20px; color: #45484b; vertical-align:top; page-break-inside:avoid; }
+.footertext { font-size: 8pt !important;  padding: 5px 20px 0 20px; color: #45484b; border-top: solid #4c4c4c; border-width: 1px; page-break-inside:avoid; }
+
+/* top level elements - Section Titles */
+.section-header {color: #000; font-size: 13pt; padding:6pt; background-color:#ddd; border-top: solid 2px #000; border-bottom: solid 2px #000; font-weight: bold; margin-top:5pt; page-break-inside:avoid; background-image:url(modern-gradient-sectionbk.png); background-repeat:repeat-x;}
+.frame {width: 80%; page-break-inside: avoid; }
+
+/* invoice table */
+.pricelist-form { page-break-inside: avoid; width: 100%; margin: 0; }
+.pricelist-form-header { font-weight: bold; }
+.pricelist-form-amt-header { font-weight: bold; text-align:right; }
+.pricelist-form-selection { border-color: #45484b; border-width: 2px; border-style: solid; padding: 0; width: 6; height: 6 }
+.pricelist-form-name {  }
+.pricelist-form-amount { text-align : right; width: 70}
+
+/* invoice text */
+.pricelist-header { color: #000; font-size: 10pt;}
+.pricelist-selection { color: #000; font-size: 10pt;}
+.pricelist-name { color: #000; font-size: 10pt;}
+.pricelist-amount { color: #000; font-size: 10pt;}
+
+/* summary table */
+.summary-form { width: 100%;}
+.summary-form-number {vertical-align: top; white-space: nowrap;}
+.summary-form-question {vertical-align: top;}
+.summary-form-answer {vertical-align: top;}
+.summary-form-estimate {vertical-align: top; text-align:right;}
+.summary-form-comments {vertical-align: top;}
+
+/* summary text */
+.summary-block {width: 100%; margin-left: auto; margin-right: auto; text-align: center;}
+.summary-intro {font-size: 8pt !important; padding: 10px 20px 5px 20px !important; color: #45484b; page-break-inside: avoid;} 
+.summary-footer {font-size: 8pt !important; padding: 0 20px 0 20px !important; color: #45484b; page-break-inside: avoid; border-top: thin solid #45484b;}
+.summary-header {color: #000; font-size: 13pt; padding:8px;  background-color:#ddd; border-top: solid 2px #000; border-bottom: solid 2px #000; font-weight: bold; page-break-after: avoid; background-image:url(modern-gradient-sectionbk.png); background-repeat:repeat-x;}
+.summary-header-image {display:none;}
+.summary-question-number { color: #45484b; font-size: 10pt; font-weight: bold; vertical-align: top; }
+.summary-answer {color: #484848; font-size: 10pt; font-weight: bold;}
+.summary-question {color: #484848; font-size: 10pt; font-weight: bold; vertical-align: top;}  
+.summary-comments {color: #484848; font-size: 10pt;}
+.summary-estimates {color: #484848; font-size: 10pt;}
+.summaryIcon {margin-right: 4px;}
+.summary-title-consolidated {color: #333; margin-top: 10px; margin-bottom: 10px; font-size: 12pt; font-weight: bold;}  
+
+/* spreadsheets */
+.ss-table { border: thin solid; border-color:black; border-collapse: collapse; }
+.ss-tr {  }
+.ss-tr:hover { background-color:#eeeeee; }
+.ss-td { border-color:black; }
+.ss-th { border-color:black; color: black; background-color:white; text-align:center; }
+
+/* used for the comments response to a question */
+.comments-picture { BORDER: 1px solid; MARGIN: 1px auto;  }
+.comments-number { font-size: 10pt; font-weight: bold; }
+.comments-header {display: none;}
+.comments { font-size: 10pt !important; display:block; page-break-after:avoid; }
+.comments-below { page-break-after:auto; }
+
+/* used for the styles and materials section */
+.sm-table {table-layout: auto; width: 100%; margin-left: auto; margin-right: auto;}
+.sm-title {color: #000; font-size: 12pt !important; background-color:#ddd; border-top: solid 2px #000; border-bottom: solid 2px #000; font-weight: bold;text-indent: 10pt; padding:5px; margin-top:15pt; clear:right; page-break-before:avoid; background-image:url(modern-gradient-sectionbksm.png); background-repeat:repeat-x; } 
+.sm-header {FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-LEFT: 15px; COLOR: #4c4c4c;display: block;}  
+.sm-answer {font-size: 9pt; color: #45484B; padding: 0 0 0 5px;MARGIN-LEFT: 15px; display: block;}  
+.sm-col {  }  
+div.sm-whole:hover { background-color:  #eee;}
+.sm-whole { margin-bottom: 5px;}
+
+
+/* This is the table created of inspected items in every section */
+.form {  }
+.form-question-number 	{vertical-align: top;}
+.form-question 			{vertical-align: top;}
+.form-header 			{vertical-align: top;}
+.form-footer 			{vertical-align: top;}
+.form-answer 			{vertical-align: top;}
+.form-discovery 			{vertical-align: top;}
+.form-key 				{vertical-align: top;}
+.form tr:hover  			{background-color:  #eee;}
+
+/* questions and answers text */
+.question-number 	{font-size: 10pt; font-weight: bold; margin-right: 2px;}  
+.question 			{font-size: 10pt; font-weight: bold;}  
+.abbrev 				{font-size: 9pt; font-weight: bold;}  
+.answer 				{font-size: 10pt; color: #333;}  
+.discovery 			{font-size: 9pt; padding: 0 0 0 5px;} 
+
+/* work scope */
+.workscope-table { border: thin solid; border-color:black; border-collapse: collapse; width:100%; }
+.workscope-table-header1 { background-color: #ddd; width:6%; font-size: 11pt; font-weight: bold; padding:5px; border-bottom: thin solid black; text-align:left; }
+.workscope-table-header2 { background-color: #ddd; width:35%; font-size: 11pt; font-weight: bold; padding:5px; border-bottom: thin solid black; text-align:left; }
+.workscope-table-header3 { background-color: #ddd; width:35%; font-size: 11pt; font-weight: bold; padding:5px; border-bottom: thin solid black; text-align:right; }
+.workscope-table-header4 { background-color: #ddd; font-size: 10pt; font-weight: bold; padding:5px; border-bottom: thin solid black; text-align:center; }
+.workscope-entry-table { width:100%; page-break-inside:avoid; }
+.workscope-cell-jobname { background-color: #ddd; font-size: 11pt; padding:5px; border-bottom: thin solid black; border-top: thin solid black; }
+.workscope-cell-jobest { background-color: #ddd; font-size: 11pt; padding:5px; text-align:right; border-bottom: thin solid black; border-top: thin solid black; }
+.workscope-cell-jobextra { background-color: #ddd; border-bottom: thin solid black; border-top: thin solid black; }
+.workscope-cell-priority {text-align: center; padding:5px; width: 6%; }
+.workscope-cell-name { font-size: 10pt; padding:5px; width:35%; }
+.workscope-cell-est { font-size: 10pt; padding:5px; text-align:right; width:35%; }
+.workscope-cell-desc { font-size: 9pt; padding:0px 5px 5px 5px; color:#555555;}
+.workscope-cell-xinfo { font-size: 9pt; padding:5px 5px 5px 5px; color:#555555; background-color:#eeeeee; }
+.workscope-cell-total { background-color: #ddd; font-size: 12pt; padding:5px; text-align:right; border-top: thin double black; }
+.workscope-header { font-size: 8pt; }
+.workscope-header-spacer { padding: 5px; }
+.workscope-footer { font-size: 8pt; }
+.workscope-footer-spacer { padding: 5px; }

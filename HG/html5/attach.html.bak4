@@ -1,0 +1,20 @@
+<html><head></head><body><table style="WIDTH: 100%; TEXT-ALIGN: center">
+<tbody>
+<tr>
+<td style="WIDTH: 100%; TEXT-ALIGN: center">*print.logo1*<br />
+<strong>*reportinfo.inspectorCompany*</strong>
+<p><strong>*reportinfo.inspectorContact*</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 align="center">Property Consult&nbsp;Attachments</h2>
+<p align="center">ATTENTION: This poperty consult report is
+incomplete without reading the information included herein at these
+links/attachments. Note If you received a printed version of this
+page and did not receive a copy of the report through the internet
+please contact your inspector for a printed copy of the
+attachments.</p>
+<p align="center">*general.attachmentlist*</p>
+
+</body></html>

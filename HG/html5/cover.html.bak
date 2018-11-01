@@ -1,0 +1,12 @@
+<html><head></head><body><p align="center">*print.logo1*</p>
+<h2 align="center">Property Inspection Report</h2>
+<h3 align="center">*client.fullnames*</h3>
+<p align="center"><strong>Property Address:</strong><br />
+*reportinfo.fulladdress*</p>
+<p align="center">*general.pics*</p>
+<h3 align="center">*reportinfo.inspectorCompany*</h3>
+<p align="center"><strong>*reportinfo.inspector*<br />
+*reportinfo.inspectorLicense*<br /></strong>*reportinfo.inspectorContact*</p>
+<p align="left">*print.logo2thru10-oneline*</p>
+
+</body></html>

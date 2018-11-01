@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrintDocument version="1">
+	<ReportPart>
+		<name>Cover Page</name>
+		<filename>coverIRI.html</filename>
+		<include>1</include>
+		<displayName>Cover Page</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Report</name>
+		<filename></filename>
+		<include>1</include>
+		<displayName>Report</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Invoice</name>
+		<filename>invoice.html</filename>
+		<include>0</include>
+		<displayName>Invoice</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Agreement</name>
+		<filename>disclaim.html</filename>
+		<include>0</include>
+		<displayName>Agreement</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Summary</name>
+		<filename>summary.html</filename>
+		<include>0</include>
+		<displayName>Summary</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Back Page</name>
+		<filename>backpage.html</filename>
+		<include>0</include>
+		<displayName>Back Page</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Attachments</name>
+		<filename>attach.html</filename>
+		<include>1</include>
+		<displayName>Attachments</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Intro Page</name>
+		<filename>introIRI.html</filename>
+		<include>1</include>
+		<displayName>Intro Page</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Table of Contents</name>
+		<filename>toc.html</filename>
+		<include>1</include>
+		<displayName>Table of Contents</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Spreadsheets</name>
+		<filename>spreadsheets.html</filename>
+		<include>0</include>
+		<displayName>Spreadsheets</displayName>
+	</ReportPart>
+	<ReportPart>
+		<name>Work Scope</name>
+		<filename>workscope.html</filename>
+		<include>0</include>
+		<displayName>Work Scope</displayName>
+	</ReportPart>
+	<Order>0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10</Order>
+	<PicsInSummary>0</PicsInSummary>
+	<PrintOutputPDF>0</PrintOutputPDF>
+	<ConsolidateSummary>0</ConsolidateSummary>
+	<SortBySection>1</SortBySection>
+	<excludeSummaryColumnHeaders>0</excludeSummaryColumnHeaders>
+	<SummaryEstimates>0</SummaryEstimates>
+	<SummarySeqNumbers>0</SummarySeqNumbers>
+	<PicsInReport>1</PicsInReport>
+	<WorkscopeDetails>0</WorkscopeDetails>
+	<WorkscopeEstimate>1</WorkscopeEstimate>
+	<PrintEnabled>0</PrintEnabled>
+	<PrintAllSummaries>0</PrintAllSummaries>
+	<DocumentType>1</DocumentType>
+	<UploadName>Infrared Insulation Survey</UploadName>
+</PrintDocument>

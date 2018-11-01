@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Calendar CompactMode="1" Version="1">
+	<Options WorkDayStartTime="08:00:00" WorkDayEndTime="17:00:00" ScaleMinTime="07:00:00" dtScaleMaxTime="18:00:00" UseOutlookFontGlyphs="1" DayView_Scale2TimeZone="MCBAAAAAFEAABGAADHAAEHAAFGAACHAAOGAAACAADFAAEHAABGAAOGAAEGAABGAACHAAEGAAACAAEFAAJGAANGAAFGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAABAAACAAAAAAAAAAAAAAAAAAAAAAAFEAABGAADHAAEHAAFGAACHAAOGAAACAAEEAABGAAJHAAMGAAJGAAHGAAIGAAEHAAACAAEFAAJGAANGAAFGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAACAAACAAAAAAAAAAAAAAAEMPPPPPP" MonthView_ShowEndDate="1" AdditionalOptions="495"/>
+	<Events>
+		<Event EventID="-173" StartTime="2018-09-05T08:30:00" EndTime="2018-09-05T10:00:00" Subject="Carmen Hicks" Location="59 Berkeley St, Somerville, 02143" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B631E335-DE07-4794-92A8-98B44B3AFBC9" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-163" StartTime="2018-30-04T15:00:00" EndTime="2018-30-04T16:30:00" Subject="Sandra Moseley" Location="33 Maplewood Ave, Gloucester, 01930" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E5DD63B1-6BDB-451B-87D0-B142E1132D03" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-153" StartTime="2018-25-04T12:00:00" EndTime="2018-25-04T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="425D87FF-3C19-446B-BFAA-067550EBA27B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-143" StartTime="2018-19-04T08:30:00" EndTime="2018-19-04T12:00:00" Subject="Tom Walsh" Location="14 Woods Rd, Medford, 02155" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="22F40B6B-3F0D-43B6-81B2-9E8894783FD8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-133" StartTime="2018-15-04T08:00:00" EndTime="2018-15-04T23:15:00" Subject="Justin Albert" Location="50 Washington St., Newton, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B3070FA4-19F9-49B6-9759-EB5BEDBA3697" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-123" StartTime="2018-06-04T16:30:00" EndTime="2018-06-04T18:20:00" Subject="Thomas Barnes &amp; Tayla Caggiano" Location="1450 Beacon St, Brookline, 02446" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="920E0065-26CA-408B-BC3A-0B3EFD26E6EA" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-113" StartTime="2018-31-03T07:30:00" EndTime="2018-31-03T10:50:00" Subject="Curtis Giansante" Location="8 Clark Rd, Newton, 02465" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4B326D20-6AA5-4591-B328-FC37C117537A" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-103" StartTime="2018-24-03T07:30:00" EndTime="2018-24-03T09:30:00" Subject="Carrie Hefler" Location="143 Village St Unit C, Medway, 02053" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8A118C91-D2F6-42D1-8562-342E18AE6493" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-93" StartTime="2018-07-03T08:45:00" EndTime="2018-07-03T10:45:00" Subject="Sarah Gifford" Location="42 Soley St, Boston, 02129" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5D46FA47-A271-4EA0-9791-F564384B80FD" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-83" StartTime="2018-06-03T12:30:00" EndTime="2018-06-03T14:50:00" Subject="Tej Shrestha" Location="215 Riverside, Medford, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="0F7C9EF6-7704-4DF1-A6E3-EC486C5F2C7A" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-367" StartTime="2018-28-10T09:00:00" EndTime="2018-28-10T09:30:00" Subject="Jason Goldstien" Location="57 W Central St, Natick, 01760" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:32:10" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="308F8F1F-B205-40FE-9FA8-7889BFBF0141" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-73" StartTime="2018-24-02T08:30:00" EndTime="2018-24-02T10:50:00" Subject="Zhongcheng Gong" Location="86 Paul Revere Rd, Arlington, 02476" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="CF59C8F5-3CDC-488E-9113-9CD09B266F1A" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-357" StartTime="2018-05-10T13:30:00" EndTime="2018-05-10T16:30:00" Subject="Marie Palmier" Location="8 Grant Ave, Wellesley, 02481" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E6BD19D2-5B10-486A-9E98-247002EBF374" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-63" StartTime="2018-10-02T13:30:00" EndTime="2018-10-02T16:45:00" Subject="Charlie Kirchofer" Location="72 Park Ave, Abington, 02351" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="1123BBC7-0604-4E82-8699-427C577C3F8C" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-347" StartTime="2018-30-09T08:30:00" EndTime="2018-30-09T23:30:00" Subject="Allison Conroy" Location="5 Cordwood Path, Duxbury, 02332" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="C076A3A7-B65F-41FA-90FF-F1AC5A95979C" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-53" StartTime="2018-25-01T12:30:00" EndTime="2018-25-01T14:45:00" Subject="Jonathan Price" Location="16 Waterhouse St, Somerville, 02144" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="D5143CB3-1D1F-4A5F-BDC7-7CD8A57D2385" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-337" StartTime="2018-22-09T08:30:00" EndTime="2018-22-09T11:30:00" Subject="Nakia Navarro" Location="5 Nadias Way, Brockton, 02301" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B1495275-5E90-4A20-976B-D230D5884ECE" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-43" StartTime="2018-17-01T08:30:00" EndTime="2018-17-01T11:00:00" Subject="Myrna Jreige" Location="11-13 Town Hill St, Quincy, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="19FD3064-FAB4-48D4-B970-8232AC4D0B4B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-327" StartTime="2018-16-09T08:30:00" EndTime="2018-16-09T11:00:00" Subject="James Bochicchio" Location="115 Fenno St, Quincy, 02170" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="CB79BE73-8CD7-4885-AD79-920F0C476CBA" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-33" StartTime="2018-10-04T09:00:00" EndTime="2018-10-04T09:30:00" Subject="Pat Parker" Location="16 Randy Rd, Framingham, 01701" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="3C12FE39-1188-4D41-886A-2810717C8B70" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-317" StartTime="2018-06-09T14:30:00" EndTime="2018-06-09T16:45:00" Subject="Adam Wayshak" Location="7 Lowell Terrace, Somerville, 02145" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="064699EE-7148-4852-9041-9FBFFEA90061" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-23" StartTime="2018-13-03T08:00:00" EndTime="2018-13-03T08:30:00" Subject="Aaron Berdofe" Location="11 Juniper Rd, Swampscott, 01907" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="ECC62FB4-9C89-484C-B8CE-76A2DF6F0A73" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-307" StartTime="2018-29-08T04:45:00" EndTime="2018-29-08T04:45:00" Subject="Phin Chhoeun" Location="9 Pine Rd, Lynn, 01904" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7F11ADB2-A985-4780-B8C6-AB0A5B0F26C0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-13" StartTime="2018-31-01T14:00:00" EndTime="2018-31-01T14:30:00" Subject="Anastasia Koretsky" Location="1303 Walnut St, Newton, 02461" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="258CB434-DA02-4DDA-B891-01422510E388" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-297" StartTime="2018-23-08T08:30:00" EndTime="2018-23-08T12:00:00" Subject="Michael Binder" Location="11 Breakneck Hill Rd, Southborough, 01772" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="9406E251-0A6A-47C9-8924-07A9A439AB8C" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-3" StartTime="2018-20-01T12:00:00" EndTime="2018-20-01T12:30:00" Subject="Ayan Shafqat" Location="40 Upland Rd, Marlborough, 01752" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5E8CE767-9E4D-4C88-8B6B-6B0D05BDB00E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-287" StartTime="2018-08-08T13:30:00" EndTime="2018-08-08T15:30:00" Subject="Caitlyn Clough" Location="8 Lisa Ln, Saugus, 01906" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="60D56BFD-1E95-46C3-849B-139DB3642350" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-277" StartTime="2018-01-08T08:30:00" EndTime="2018-01-08T23:45:00" Subject="Caroline Perry" Location="30 Unicorn Ave, Weymouth, 02189" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7580B55C-057F-4C93-A24F-963AE41595D4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-267" StartTime="2018-28-07T07:45:00" EndTime="2018-28-07T23:30:00" Subject="Chris Greeley" Location="914 VFW Parkway, Boston, 02132" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="91262CE4-3E63-4E65-BDBF-D29ADB6A2AAF" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-257" StartTime="2018-25-07T08:30:00" EndTime="2018-25-07T12:15:00" Subject="Laura Fink" Location="38 Tennyson Rd, Newton, 02465" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AF7581D4-3C13-4F3F-ADA9-191AA0730A63" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-247" StartTime="2018-20-07T12:30:00" EndTime="2018-20-07T15:15:00" Subject="Charlie Weickert" Location="17 Vale Rd, Wakefield, 01880" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="53F50A1B-ACF8-49FA-818A-EC50EBA32603" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-237" StartTime="2018-12-07T09:30:00" EndTime="2018-12-07T12:15:00" Subject="Ronda Le" Location="6 Boylston St, Randolph, 02368" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="A432D035-D201-4B17-8206-4FC97A56CF69" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-227" StartTime="2018-29-06T14:00:00" EndTime="2018-29-06T16:30:00" Subject="Yuxin Zhang" Location="9 Barefoot Hill Rd, Sharon, 02067" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="9F344962-0CD4-482E-93D8-040844CCB422" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-217" StartTime="2018-21-06T13:30:00" EndTime="2018-21-06T16:00:00" Subject="Nathan Moreland" Location="31 Pelletier Dr, Bellingham, 02019" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5CC76BA3-256D-41DC-80F1-1CD956660880" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-207" StartTime="2018-08-06T12:30:00" EndTime="2018-08-06T17:00:00" Subject="Jeff Gorelick" Location="12 Marvin Rd, Wellesley, 02482" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AC084556-D458-4610-BF51-87EEA894BC8E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-197" StartTime="2018-31-05T08:30:00" EndTime="2018-31-05T11:00:00" Subject="CHEN CHENG" Location="367 Lowell Ave, Newton, 02460" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="739D2583-511B-48B3-857C-DE1DF80CE747" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-187" StartTime="2018-30-05T13:00:00" EndTime="2018-30-05T13:30:00" Subject="Christine Ballantyne" Location="36 Medford St, Chelsea, 02150" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="9D128F63-2F2C-45C8-BA39-7947041BA84D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-177" StartTime="2018-11-05T07:30:00" EndTime="2018-11-05T23:30:00" Subject="Purnima Ratilal" Location="49 Spencer Ave, Somerville, 02144" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="818CE184-BD6B-4B3D-9969-1B37E19871B1" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-167" StartTime="2018-03-05T07:30:00" EndTime="2018-03-05T11:30:00" Subject="Mike Bassett" Location="50 May St, Needham, 02492" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8E55CA4B-7892-4049-A9D3-8F71CF941C9E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-157" StartTime="2018-29-04T12:30:00" EndTime="2018-29-04T15:00:00" Subject="Isaura &amp; Jose Carvalho" Location="20 Rhoda St, Tewksbury, 01876" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="BE4A201E-41EF-4B5D-8A9B-402134A2E3D8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-147" StartTime="2018-21-04T09:00:00" EndTime="2018-21-04T12:00:00" Subject="Patrick Merrill" Location="15 Howland Terrace, Stoughton, 02072" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8549BB14-9507-4EA7-AF42-E6691C715C3D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-137" StartTime="2018-15-04T04:45:00" EndTime="2018-15-04T04:45:00" Subject="Silas &amp; Christine Adams" Location="12 Central St, Abington, 02351" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7FAAD0E0-E346-48E5-AE2C-BDD005EC7D58" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-127" StartTime="2018-10-04T08:30:00" EndTime="2018-10-04T11:30:00" Subject="Pat Parker" Location="16 Randy Rd, Framingham, 01701" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="01CB6E5B-DE91-40D1-AF6D-7BD194675C6F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-117" StartTime="2018-28-03T12:30:00" EndTime="2018-28-03T14:00:00" Subject="Jeremy Moss" Location="155 O St, Boston, 02127" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F01363C3-C678-4564-80DC-5628651AABCB" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-107" StartTime="2018-25-03T08:30:00" EndTime="2018-25-03T12:00:00" Subject="Alicia Duarte" Location="36 Karlyn Rd, Weymouth, 02188" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F04BC0FE-7F5C-417E-ADAB-A550847F6E5E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-97" StartTime="2018-17-03T13:30:00" EndTime="2018-17-03T15:40:00" Subject="Jim Fiala" Location="131 Davis Ave, Brookline, 02445" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F59828FA-57C6-4D80-9853-C1885FA87B59" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-87" StartTime="2018-01-03T09:30:00" EndTime="2018-01-03T10:25:00" Subject="Randall Schaible" Location="18 Gormans Ct, Waltham, 02451" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8C13C813-FD6D-4725-817D-D9BBA6110B5E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-371" StartTime="2018-19-10T09:00:00" EndTime="2018-19-10T09:30:00" Subject="Manh &amp; Linh Nguyen" Location="624 Malden St, Revere, 02151" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:32:10" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="28FF379D-DA2E-44D5-B1EE-63706DD6C7BD" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-77" StartTime="2018-26-02T08:30:00" EndTime="2018-26-02T10:25:00" Subject="Natalia Korkin" Location="251 Kelton St, Boston, 02134" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="049783AE-A632-4693-954F-3293861D5133" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-361" StartTime="2018-16-10T12:00:00" EndTime="2018-16-10T12:30:00" Subject="No name" Location="1 North St, Medford, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="852A76D9-E974-490B-A2E1-FFAE4634A096" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-67" StartTime="2018-17-02T07:30:00" EndTime="2018-17-02T10:20:00" Subject="Megan Cunningham" Location="26 Ames St, Medford, 02155" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="60896A0A-2AA9-4E16-975E-4B852698608F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-351" StartTime="2018-04-10T12:00:00" EndTime="2018-04-10T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E4EDC3D8-B101-4491-B98E-B6D724ED0898" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-57" StartTime="2018-05-02T12:45:00" EndTime="2018-05-02T16:00:00" Subject="Matthew Furtado" Location="35 Glenmere Cir, Reading, 01867" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="86CBD393-0233-484D-85BA-24566BFC8836" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-341" StartTime="2018-26-09T13:30:00" EndTime="2018-26-09T16:30:00" Subject="Jim Bochicchio" Location="345 Hancock St, Braintree, 02184" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="36D1B874-2F70-4D81-B9BF-665414D5459B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-47" StartTime="2018-22-01T08:30:00" EndTime="2018-22-01T11:00:00" Subject="John Humphrey" Location="88 Electric Ave #2, Somerville, 02144" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B69E1257-BC5F-41E9-9B23-F8B8C353C3A4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-331" StartTime="2018-20-09T13:30:00" EndTime="2018-20-09T16:00:00" Subject="Matt Sbrogma" Location="26 Heard Rd, Arlington, 02474" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8372BC86-307A-40FB-AF06-88EBCCA4DC14" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-37" StartTime="2018-26-01T14:45:00" EndTime="2018-26-01T14:45:00" Subject="Yatin Kanak" Location="57 Forrest Rd, Westford, 01886" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="BF214E33-B526-48FE-8456-204AA2272F02" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-321" StartTime="2018-08-09T09:45:00" EndTime="2018-08-09T12:00:00" Subject="Kate Sutch" Location="36 Zoar Ave, Dedham, 02026" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="82EC4F7A-D647-4320-B986-32F147A1F86E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-27" StartTime="2018-03-04T13:00:00" EndTime="2018-03-04T13:30:00" Subject="Brad Monroe" Location="100 South St, Randolph, 02368" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="081FB673-A3D9-47A6-A4D4-451FE6092C28" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-311" StartTime="2018-31-08T14:00:00" EndTime="2018-31-08T16:30:00" Subject="Erica Cashman" Location="46 Michigan Ave, Lynn, 01902" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5540F332-5476-4690-8E4F-18E2204C5759" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-17" StartTime="2018-13-03T11:00:00" EndTime="2018-13-03T11:30:00" Subject="Leslie McDaniel" Location="121 Mystic St, Medford, 02155" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E513CB47-0382-403A-A6D0-085014CA0E3F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-301" StartTime="2018-24-08T08:30:00" EndTime="2018-24-08T11:45:00" Subject="Peter Mongelli" Location="16 Lilly Ln, Dedham, 02026" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4244C3D9-0651-4E8B-B2B9-FBBC16037A64" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-7" StartTime="2018-23-02T09:00:00" EndTime="2018-23-02T09:30:00" Subject="Yun Kim" Location="40-42 Rosedale St, Boston, 02124" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B9DFE827-E638-41B2-B3B7-B42137D474D1" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-291" StartTime="2018-11-08T08:30:00" EndTime="2018-11-08T11:30:00" Subject="Eliot Choi" Location="35 Court St, Newton, 02458" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="99369E7A-BC38-4C7F-8F70-0FDA76BF9F4E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-281" StartTime="2018-03-08T14:10:00" EndTime="2018-03-08T17:20:00" Subject="Alessio Orsini" Location="16 Mansfield St, Boston, 02134" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="47828523-5D96-4E5E-8D5A-7BA45FB22EF4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-271" StartTime="2018-04-08T09:00:00" EndTime="2018-04-08T09:30:00" Subject="Jessica Beyer" Location="46 Emmons St, Franklin, 02038" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="33947254-4B24-452F-A993-420D33F52500" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-261" StartTime="2018-26-07T12:30:00" EndTime="2018-26-07T15:20:00" Subject="Jason Merchant" Location="11 Sylvan Cir, Lynnfield, 01940" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="03B05BCA-6A99-4C4A-916B-22195886FED3" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-251" StartTime="2018-25-07T09:00:00" EndTime="2018-25-07T09:30:00" Subject="Mia Healy-Waldron" Location="237 Webster St, Boston, 02128" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="340D61FB-4D25-49A3-AFA9-8185C9D851BD" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-241" StartTime="2018-14-07T08:30:00" EndTime="2018-14-07T11:30:00" Subject="Dinu Ghilas" Location="72 Washington St, Norwood, 02062" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="DB3D314A-2020-4501-B78D-E11D4AB7A412" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-231" StartTime="2018-06-07T08:30:00" EndTime="2018-06-07T12:15:00" Subject="Johnpaul Wilhelmi" Location="40 Booth St, North Andover, 01845" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7A2E8BA8-6728-4648-9172-FE22B61F8709" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-221" StartTime="2018-23-06T07:30:00" EndTime="2018-23-06T10:15:00" Subject="Daisy Daivasagaya" Location="18R Boutwell St, Wilmington, 01887" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="D72446B1-C75F-4EED-917C-B1FDEEAD0427" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-211" StartTime="2018-16-06T10:30:00" EndTime="2018-16-06T12:45:00" Subject="Klaus Waltner" Location="23 Fuller Terrace, Newton, 02465" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="2D065D95-7BB2-47BE-80B1-E774BFE69534" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-201" StartTime="2018-02-06T09:30:00" EndTime="2018-02-06T11:45:00" Subject="Sandy Wang" Location="49 Lupine Rd, Andover, 01810" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B789A749-77BA-42C8-BF98-CA2354037C7C" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-191" StartTime="2018-25-05T12:30:00" EndTime="2018-25-05T16:00:00" Subject="Abieser Pacheco" Location="110 Beal St, Rockland, 02370" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="ADE99FB1-D48C-41F5-8EF7-5E8F75D6C1B5" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-181" StartTime="2018-18-05T09:30:00" EndTime="2018-18-05T12:45:00" Subject="Betsy Marks" Location="20 Garden Rd, Wellesley, 02481" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="3645AA8C-8267-4B73-A3D7-38F1D7BE4F35" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-171" StartTime="2018-06-05T13:00:00" EndTime="2018-06-05T14:00:00" Subject="Kim Formica" Location="271 Dartmouth St, Boston, 02116" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="EB047187-A078-4301-9AFD-FFFBBC171863" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-161" StartTime="2018-18-04T06:15:00" EndTime="2018-18-04T08:15:00" Subject="Trustees of 56 Penn St. Michael Lofstead" Location="56 Penn St, Quincy, 02169" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="DC699A88-A7F6-47C0-A545-D0F484FB1CA1" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-151" StartTime="2018-23-04T08:30:00" EndTime="2018-23-04T23:15:00" Subject="Elizabeth Reiser" Location="19 Argyle St, Andover, 01810" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B627A2FD-CF66-4992-9D8A-177203A3968B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-141" StartTime="2018-18-04T06:00:00" EndTime="2018-18-04T20:30:00" Subject="Trustees of 56 Penn St. Michael Lofstead" Location="56 Penn St, Quincy, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="19F0458B-2D7C-423D-92AA-D670A3278354" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-131" StartTime="2018-14-04T10:45:00" EndTime="2018-14-04T12:15:00" Subject="Todd Sandstrom" Location="15 Holyoke St, Boston, 02116" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="43171DD4-BDB8-4595-AA11-33DB628E89C0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-121" StartTime="2018-07-04T09:30:00" EndTime="2018-07-04T12:00:00" Subject="Edward Chouchani" Location="16 McBride St, Boston, 02130" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="96EDF215-9AD1-4F9F-867A-3FB5A5A802F2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-111" StartTime="2018-27-03T09:30:00" EndTime="2018-27-03T23:45:00" Subject="Patrick Nugent" Location="44 Sullivan St, Boston, 02129" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="565DF847-741D-450A-BCCE-A58F01DE81FC" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-101" StartTime="2018-18-03T08:30:00" EndTime="2018-18-03T11:00:00" Subject="Duane Teixeira" Location="273 Sumner St, Boston, 02128" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="48ADBAFD-21EB-4095-8DE5-3073538C83B2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-91" StartTime="2018-08-03T09:00:00" EndTime="2018-08-03T13:00:00" Subject="Daphna Spiegel" Location="95 Fair Oaks Park, Needham, 02492" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E45B425F-5F25-4393-969F-2F050DB2242D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-81" StartTime="2018-03-03T12:30:00" EndTime="2018-03-03T14:20:00" Subject="Benjamin Kornstein" Location="78 Albemarle Rd, Waltham, 02452" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="EDE29442-2617-48E0-A2D0-537C1FE2D826" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-365" StartTime="2018-19-10T12:00:00" EndTime="2018-19-10T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="0AFAD106-CDA7-4313-AB44-2BC2D85E068F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-71" StartTime="2018-16-02T13:30:00" EndTime="2018-16-02T14:15:00" Subject="Kawai Lau" Location="14 Hallmark Gardens, Burlington, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="DFB47458-0B37-49AA-88DB-48256D7FEA06" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-355" StartTime="2018-08-10T13:30:00" EndTime="2018-08-10T15:15:00" Subject="Doug Fernald" Location="2-4 Capen St, Medford, 02155" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="D8FB86D1-AB4F-420F-80E0-F09E9D60F9C9" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-61" StartTime="2018-03-02T14:00:00" EndTime="2018-03-02T16:35:00" Subject="Anand Nair" Location="139 Captain Eames Cir, Ashland, 01721" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="D983E44C-62B8-45AD-BB71-1C139AFD0F85" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-345" StartTime="2018-29-09T08:30:00" EndTime="2018-29-09T12:15:00" Subject="Jason Joseph" Location="585 Lexington Rd, Concord, 01742" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="89C4AEED-4345-4B5B-B614-17C805E11B8E" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-51" StartTime="2018-02-02T12:30:00" EndTime="2018-02-02T16:30:00" Subject="Nguyen Chau" Location="57 Locust St, Lynnfield, 01940" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="BD6C312C-A878-49A8-BAA4-E3FE136AA772" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-335" StartTime="2018-21-09T08:30:00" EndTime="2018-21-09T12:30:00" Subject="Paul McElroy" Location="4 Gridley Bryant Rd, Scituate, 02066" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="ED7692E6-8C14-4CC5-BB4A-7330FE825DA2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-41" StartTime="2018-15-01T10:00:00" EndTime="2018-15-01T13:30:00" Subject="Dave Grotsky" Location="31 George Aggott Rd, Needham, 02492" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E6D28344-2DA7-467B-B435-927673195508" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-325" StartTime="2018-15-09T08:30:00" EndTime="2018-15-09T11:30:00" Subject="Michelle Dubuke" Location="30 Pincushion Rd, Framingham, 01702" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F3601644-7B1F-4CD8-B409-18C77FB7EF35" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-31" StartTime="2018-14-04T11:00:00" EndTime="2018-14-04T11:30:00" Subject="Todd Sandstrom" Location="15 Holyoke St, Boston, 02116" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="72334611-9F27-4D72-B2FE-253015C422F3" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-315" StartTime="2018-05-09T07:30:00" EndTime="2018-05-09T12:25:00" Subject="Christopher Jones" Location="1 Cook Ave, Wilmington, 01887" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8E5D1D5B-561D-4982-A6E3-3DEA46F90231" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-21" StartTime="2018-26-02T16:00:00" EndTime="2018-26-02T16:30:00" Subject="Maureen Curran" Location="100 Baldwin Ave, Woburn, 01801" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4ACCB940-8E50-4176-B2C8-9E7E3F3EE2B7" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-305" StartTime="2018-25-08T08:30:00" EndTime="2018-25-08T12:30:00" Subject="Austin Miller" Location="20 Maynard Pl, Cambridge, 02138" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B540C89F-C91E-427B-9ACE-1898724066EF" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-11" StartTime="2018-06-02T09:00:00" EndTime="2018-06-02T09:30:00" Subject="Tejal Patel" Location="361 Maverick St, Boston, 02128" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7BC08ED2-002F-412D-9342-BE4BCA4D834B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-295" StartTime="2018-22-08T13:30:00" EndTime="2018-22-08T18:00:00" Subject="Edmund Spence" Location="535 Washington St, Dedham, 02026" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5681FCDA-F2F5-4E12-85D9-8979D7E7F146" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-285" StartTime="2018-08-08T08:00:00" EndTime="2018-08-08T12:30:00" Subject="Albert Morello" Location="12 Wildwood Rd, North Reading, 01864" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="783B67E3-22EC-4BB0-B71F-652D097384C4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-275" StartTime="2018-02-08T08:30:00" EndTime="2018-02-08T11:00:00" Subject="Christopher Llop" Location="802 Tremont St, Boston, 02118" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="CBD7A4C6-1970-46A6-9B43-756AAC4E6A00" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-265" StartTime="2018-27-07T12:30:00" EndTime="2018-27-07T16:00:00" Subject="Catherine Welder" Location="41 Beacon St, Chelsea, 02150" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B3E48003-75C9-4AAD-B2FD-DD4591DFE260" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-255" StartTime="2018-25-07T13:00:00" EndTime="2018-25-07T13:30:00" Subject="Dinu Ghilas" Location="72 Washington St, Norwood, 02062" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="898C89EE-B92C-49DE-AF5B-7BE9D1CDD334" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-245" StartTime="2018-18-07T07:30:00" EndTime="2018-18-07T21:30:00" Subject="Daisy Daivasagaya" Location="18R Boutwell St, Wilmington, 01887" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="C4D4F79D-88CF-4FAD-AC1F-E4D1E8521F61" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-235" StartTime="2018-11-07T08:30:00" EndTime="2018-11-07T12:00:00" Subject="Bob Amweg" Location="44 Border St, Scituate, 02066" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F9EC5019-7386-43DB-9E2F-17488BC88C74" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-225" StartTime="2018-27-06T12:30:00" EndTime="2018-27-06T14:30:00" Subject="Parag Pathak" Location="42 Pleasant St, Stoneham, 02180" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="CFDBF691-3957-471C-9BFD-F497A866E13F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-215" StartTime="2018-20-06T09:30:00" EndTime="2018-20-06T12:20:00" Subject="Paul McElroy" Location="105 Mill St, Westwood, 02090" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7B798158-99AF-449B-8E98-B0234C149DE8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-205" StartTime="2018-07-06T12:30:00" EndTime="2018-07-06T16:00:00" Subject="Matthew Handy" Location="266 Ashmont St, Boston, 02124" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AC5B4083-2D64-4C29-8D1E-E848835FE420" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-195" StartTime="2018-30-05T12:30:00" EndTime="2018-30-05T16:00:00" Subject="Chris Hayes" Location="12 Hazelwood Ave, Newton, 02465" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="499DBB01-5E53-42F2-8BDF-12F6DFB9C6EE" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-185" StartTime="2018-23-05T07:30:00" EndTime="2018-23-05T10:30:00" Subject="Melissa Gavin" Location="165 Hyde Park Ave, Boston, 02130" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="09CAEC8A-1841-4905-A885-FD955AC6F3D8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-175" StartTime="2018-10-05T09:30:00" EndTime="2018-10-05T12:00:00" Subject="Jesse Flynn" Location="7 Quail Run Hollow, Newburyport, 01950" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4EBF6385-A3DE-4741-95EE-693D5299BA55" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-165" StartTime="2018-02-05T07:30:00" EndTime="2018-02-05T10:45:00" Subject="Adam Silviera" Location="3 Fuller Pl, Franklin, 02038" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="989E74B8-9506-4429-A7A5-51D821129A27" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-155" StartTime="2018-28-04T08:30:00" EndTime="2018-28-04T23:45:00" Subject="John Vallely" Location="123 King St, Boston, 02122" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="084954E3-DD98-4548-8972-9F587585357D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-145" StartTime="2018-20-04T12:00:00" EndTime="2018-20-04T15:30:00" Subject="Yilun Zhou" Location="38 Berkshire St, Cambridge, 02141" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AA4D5324-4309-4AFF-81AB-20496527C3F8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-135" StartTime="2018-12-04T07:30:00" EndTime="2018-12-04T10:00:00" Subject="Eleanor Celeste" Location="24 Dwight St, Boston, 02118" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="ECA7F155-C4CF-40CD-B5FB-B17C13D913F3" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-125" StartTime="2018-05-04T08:45:00" EndTime="2018-05-04T10:15:00" Subject="Gilbert Lamarre" Location="190 Chickering Rd, North Andover, 01845" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8160EA38-8E5C-4AD2-BE21-A97CF780BC35" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-115" StartTime="2018-30-03T08:45:00" EndTime="2018-30-03T10:30:00" Subject="Matthew Tehan" Location="11 Lake St, Wakefield, 01880" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="40F9982B-5B29-402E-B252-9B1EEAD971F0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-105" StartTime="2018-16-03T08:45:00" EndTime="2018-16-03T22:30:00" Subject="Chentian Zhang" Location="6 Grove St, Boston, 02114" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F6718A41-61BF-4724-A965-9D95FF1B5389" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-95" StartTime="2018-12-03T09:00:00" EndTime="2018-12-03T23:30:00" Subject="Lindsay Lowder" Location="100 Lincoln St, Dedham, 02026" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="A238491D-BC6E-47C6-A0D8-EA244FE91EA6" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-85" StartTime="2018-04-03T08:30:00" EndTime="2018-04-03T10:45:00" Subject="Kathy Meins" Location="139 Shore Dr, Somerville, 02145" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="FDCE4E31-D22D-4A5C-A989-113538AF0EF0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-369" StartTime="2018-22-10T09:00:00" EndTime="2018-22-10T09:30:00" Subject="Stephen Rye" Location="24 Crosby St, Arlington, 02474" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:32:10" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AC797D89-15B4-47FB-8694-47F0CF46EE10" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-75" StartTime="2018-03-03T09:00:00" EndTime="2018-03-03T09:30:00" Subject="Angela Daniel" Location="82 Country Club Road, Dedham, 02026" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F3F17928-6C3D-4F28-8BB2-F74A7A01D2C4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-359" StartTime="2018-15-10T14:30:00" EndTime="2018-15-10T15:15:00" Subject="Adam Wayshak" Location="7 Lowell Terrace, Somerville, 02145" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5B2885B2-F872-4CA8-A6A3-195DFED325B2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-65" StartTime="2018-11-02T12:30:00" EndTime="2018-11-02T16:30:00" Subject="Caroline Dang" Location="265 Fairoaks Ln, Cohasset, 02025" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="804A651B-6CEE-405E-99DE-E4A655E50D2D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-349" StartTime="2018-01-10T13:30:00" EndTime="2018-01-10T16:15:00" Subject="Heather Sun" Location="29 Wadsworth Ave, Waltham, 02453" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="9CAD059B-61A7-423A-AEB5-0DF3AD35CC54" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-55" StartTime="2018-27-01T08:30:00" EndTime="2018-27-01T12:00:00" Subject="Jeff Mathew" Location="5 Pine Grove Ave, Woburn, 01801" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7D7FAFC4-2839-47AB-90E2-54C17DAA59C2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-339" StartTime="2018-22-09T13:45:00" EndTime="2018-22-09T16:30:00" Subject="Robert Anselmi" Location="507 Hampton Way, Abington, 02351" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="678C3CC6-A345-4B4F-8F45-8435B39EF115" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-45" StartTime="2018-19-01T12:30:00" EndTime="2018-19-01T14:00:00" Subject="Royce Henry" Location="110 Stuart St, Boston, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="79547FCF-9538-4794-9176-9EAE53D01D93" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-329" StartTime="2018-16-09T13:45:00" EndTime="2018-16-09T16:00:00" Subject="James Nguyen" Location="985 Trapelo Rd, Waltham, 02452" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="DD2AC90E-9BFC-4F98-8C08-AFB866356288" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-35" StartTime="2018-12-04T08:00:00" EndTime="2018-12-04T08:30:00" Subject="Eleanor Celeste" Location="24 Dwight St, Boston, 02118" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4FEE0A5A-7130-41AB-8CE4-A14E0E8D33E0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-319" StartTime="2018-07-09T13:30:00" EndTime="2018-07-09T15:00:00" Subject="Wayne Patterson" Location="400 Savin Hill Ave, Boston, 02125" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="43F12F5F-5B9E-4605-ADE8-BFB6A3F08689" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-25" StartTime="2018-28-03T09:00:00" EndTime="2018-28-03T09:30:00" Subject="Madison Hebert" Location="181 Beechwood St, Cohasset, 02025" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="C132FC29-6B64-4C23-87F6-3FE0D45ED395" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-309" StartTime="2018-30-08T01:15:00" EndTime="2018-30-08T01:15:00" Subject="John Lonborg" Location="6 Olive St, Newburyport, 01950" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="07AA8D27-2598-467C-B5C1-66C12C93EC6B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-15" StartTime="2018-05-02T13:00:00" EndTime="2018-05-02T13:30:00" Subject="Matthew Furtado" Location="35 Glenmere Cir, Reading, 01867" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="6A825D92-A2B4-4759-8EB1-974CB6BCC78A" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-299" StartTime="2018-17-08T13:30:00" EndTime="2018-17-08T16:00:00" Subject="Kelsee Wadas" Location="95 Boardman St, Boston, 02128" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AA46F3C6-5215-4388-A755-DCCFBF9AD0A0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-5" StartTime="2018-23-02T12:00:00" EndTime="2018-23-02T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="2200C380-D927-4749-9C44-8EDF3042D820" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-289" StartTime="2018-10-08T13:30:00" EndTime="2018-10-08T17:00:00" Subject="Scott Jepson" Location="98 Stowecroft Rd, Arlington, 02474" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="A2FEEC85-9500-48EE-A78B-F7C5C2D142BE" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-279" StartTime="2018-03-08T09:45:00" EndTime="2018-03-08T12:00:00" Subject="Rick Granara" Location="410 Salem St, Wakefield, 01880" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="795E95B9-8A47-4F74-9748-F974D053F9C0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-269" StartTime="2018-28-07T12:30:00" EndTime="2018-28-07T14:53:00" Subject="Amanda Samuel" Location="23 Elm St, Somerville, 02143" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="42B61569-C0F3-4F61-AD0B-BC25DB9FF6A3" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-259" StartTime="2018-26-07T07:40:00" EndTime="2018-26-07T09:45:00" Subject="Ian Roberts" Location="53 Bunker Hill Ave, Lowell, 01850" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="22265DFD-7E1D-43D5-9A5F-F34BEDAEE282" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-249" StartTime="2018-26-07T14:00:00" EndTime="2018-26-07T14:30:00" Subject="Tony Liang" Location="180 Telford St, Boston, 02135" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="8547B6CB-051B-41FD-9DCF-989C9BF6AC04" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-239" StartTime="2018-13-07T08:30:00" EndTime="2018-13-07T23:45:00" Subject="Johnpaul Wilhelmi" Location="259 Dale St, North Andover, 01845" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7CA9B456-AE27-4B5E-BBD2-35FD51748C82" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-229" StartTime="2018-30-06T01:15:00" EndTime="2018-30-06T01:15:00" Subject="Tony King" Location="3 Arlenes Way, Chelmsford, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B9976698-29AB-4F8F-BAE2-48817459A850" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-219" StartTime="2018-22-06T08:30:00" EndTime="2018-22-06T11:00:00" Subject="Manyun Lei" Location="62 Tisdale Dr, Dover, 02030" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="3FF84FB4-0361-402D-B593-2F42104BDC97" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-209" StartTime="2018-09-06T09:00:00" EndTime="2018-09-06T11:23:00" Subject="Mitch Printz" Location="27 Wollaston Ave, Arlington, 02476" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="66322BB5-F1A6-46A8-860D-B2B08837B994" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-199" StartTime="2018-01-06T08:30:00" EndTime="2018-01-06T13:00:00" Subject="Patrica Hubbard" Location="5 Page Rd, Weston, 02493" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="A173F447-BB80-4E2A-B864-D0601C476B8F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-189" StartTime="2018-24-05T10:30:00" EndTime="2018-24-05T23:15:00" Subject="Felixa Eskey" Location="16 Fairbanks St, Brookline, 02446" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AC71ED11-B1DE-4F33-BE00-F91FB3597B71" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-179" StartTime="2018-12-05T15:00:00" EndTime="2018-12-05T15:00:00" Subject="Laura Minnichelli" Location="98 Brook St, Franklin, 02038" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="9E0AA92B-5E4F-413C-A905-5957B56A88D7" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-169" StartTime="2018-04-05T12:30:00" EndTime="2018-04-05T15:15:00" Subject="Margot Vona" Location="53 Colonial Rd, Weymouth, 02191" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="15C088CF-D990-42C1-A5D3-1833A797F4CB" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-159" StartTime="2018-30-04T08:30:00" EndTime="2018-30-04T23:45:00" Subject="Samantha Esher" Location="273 Main St, Melrose, 02176" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="08579CA9-B694-4B71-A523-2B444A02D137" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-149" StartTime="2018-22-04T14:00:00" EndTime="2018-22-04T16:45:00" Subject="Michael Reid" Location="82 Rolling Ridge Ln, Methuen, 01844" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="297FEB7D-6188-475B-9546-60904B38CE24" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-139" StartTime="2018-15-04T04:45:00" EndTime="2018-15-04T04:45:00" Subject="Silas &amp; Christine Adams" Location="12 Central St, Abington, 02351" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="E0473BF6-E760-4C85-B2B2-11F3F610A8A1" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-129" StartTime="2018-13-04T14:00:00" EndTime="2018-13-04T16:15:00" Subject="David Brown" Location="43 Burch St, Arlington, 02474" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="6C232A48-058A-4F6A-B4FD-B3F8EFB15C91" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-119" StartTime="2018-08-04T09:45:00" EndTime="2018-08-04T23:30:00" Subject="Meghan Jendrysik" Location="474 Broadway, Somerville, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="51CCB539-45DB-4E2A-BF4D-0EC0FF720285" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-109" StartTime="2018-26-03T08:45:00" EndTime="2018-26-03T23:40:00" Subject="Mike Tolland" Location="32 Sheridan St, Billerica, 01821" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="45076635-7505-4AF2-95D1-BB18759D2788" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-99" StartTime="2018-11-03T13:00:00" EndTime="2018-11-03T15:15:00" Subject="Ken Barton" Location="30 Liberty St, Newburyport, 01950" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="54B4B690-85E7-4719-81DB-D9367B0EA3A3" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-89" StartTime="2018-09-03T09:45:00" EndTime="2018-09-03T23:15:00" Subject="Raj Shanmugaraj" Location="50 Liberty Drive, Boston, 02210" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5B5F5BD7-F5A4-494A-BD46-41579580D526" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-79" StartTime="2018-25-02T08:30:00" EndTime="2018-25-02T11:50:00" Subject="Anthony and Kathryn Morreale" Location="273 Highland St, Stoughton, 02072" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B1C853A3-58DA-4287-AFEA-7FC9870CF4EA" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-363" StartTime="2018-12-10T13:30:00" EndTime="2018-12-10T16:20:00" Subject="Greg Zhang" Location="177 Ennell St, Lowell, 01850" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="F38C5A96-E937-4BD4-8289-FABF10625192" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-69" StartTime="2018-18-02T12:30:00" EndTime="2018-18-02T16:00:00" Subject="Micha Neugut" Location="5 Richmond Rd, Natick, 01760" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="743D799B-21AF-4C55-90E5-A950F267D6E5" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-353" StartTime="2018-06-10T14:00:00" EndTime="2018-06-10T15:30:00" Subject="Myrna Jreige" Location="451 Massachusetts Ave, Boston, 02118" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B06A7F17-C154-4AE7-9CA6-F74ECF2CC011" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-59" StartTime="2018-06-02T08:30:00" EndTime="2018-06-02T10:45:00" Subject="Tejal Patel" Location="361 Maverick St, Boston, 02128" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="327FC2BD-9CEA-46CE-92AE-A390D7840702" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-343" StartTime="2018-27-09T09:00:00" EndTime="2018-27-09T11:30:00" Subject="Cynthia Morvillo" Location="15 Muirfield Way, Chelmsford, 01863" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="16A03CD3-A721-48E5-BFF8-251B617B4DC9" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-49" StartTime="2018-30-01T07:30:00" EndTime="2018-30-01T10:45:00" Subject="Rachel Giza-Sisson" Location="44 Oakdale Rd, Canton, 02021" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5FD687BA-20C1-48ED-A00C-18138CA673D4" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-333" StartTime="2018-19-09T08:45:00" EndTime="2018-19-09T13:00:00" Subject="Justin Beechwood" Location="27 Hesper St, Saugus, 01906" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="2102C221-4A29-4249-A0DF-AA9FD31F4D6B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-39" StartTime="2018-14-01T08:30:00" EndTime="2018-14-01T12:00:00" Subject="Andrew Ruggeri" Location="6 Field Pond Rd, Milford, 01757" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="6D4D1DE3-90C2-4091-8868-6D3CF1794525" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-323" StartTime="2018-14-09T08:30:00" EndTime="2018-14-09T11:00:00" Subject="Nancy Rigby" Location="30 Bandon Circle, Westford, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="69C432E5-EEE3-4C24-8A04-01B4D6329458" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-29" StartTime="2018-13-04T14:00:00" EndTime="2018-13-04T14:30:00" Subject="David Brown" Location="43 Burch St, Arlington, 02474" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="AE568270-429B-4753-A81A-226854CF96C5" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-313" StartTime="2018-06-09T12:00:00" EndTime="2018-06-09T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="54D7FF11-74F9-4426-9759-36EBD05046A8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-19" StartTime="2018-01-03T09:00:00" EndTime="2018-01-03T09:30:00" Subject="Emmanuel Delannoy" Location="52 Newbury Ave, Methuen, 01844" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="6B589BB5-1AB3-421B-A345-DE7407ED0AB2" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-303" StartTime="2018-24-08T13:30:00" EndTime="2018-24-08T18:00:00" Subject="Nick Collins" Location="612 E. 7th Street, Boston, " MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="17C3A365-F4F5-4DC4-9ADE-1BB70690FD2B" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-9" StartTime="2018-07-02T09:00:00" EndTime="2018-07-02T09:30:00" Subject="Danielle Doyle" Location="74 Kingsdale St, Boston, 02124" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7331A1C8-CFAA-47E8-B0A4-8C19B628A6D0" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-293" StartTime="2018-15-08T12:00:00" EndTime="2018-15-08T12:30:00" Subject="No name" Location="No Address" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="2EE071DF-8941-4795-8124-BA40FE71E937" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-283" StartTime="2018-04-08T08:30:00" EndTime="2018-04-08T11:00:00" Subject="Tom Neenan" Location="330 Lafayette St, Salem, 01970" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="DD752A5D-57FC-4966-A523-CB2BAB3FCB06" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-273" StartTime="2018-01-08T12:30:00" EndTime="2018-01-08T15:20:00" Subject="Agustina Saenz" Location="110 Clearwater Rd, Newton, 02462" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4F48091D-01EE-40F7-88F8-22EB610EFA0D" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-263" StartTime="2018-27-07T07:30:00" EndTime="2018-27-07T10:00:00" Subject="Andrea Matthews" Location="20 Kingman Rd, Somerville, 02143" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="B4A25C8F-D093-4669-ACA6-D765DFD42DCB" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-253" StartTime="2018-21-07T08:30:00" EndTime="2018-21-07T10:15:00" Subject="Jesse Flynn" Location="62-64Wrentham St, Boston, 02124" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="49E4B82F-9147-4592-A6A3-D4E2A68A1E2A" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-243" StartTime="2018-18-07T07:30:00" EndTime="2018-18-07T09:30:00" Subject="Daisy Daivasagaya" Location="18R Boutwell St, Wilmington, 01887" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="374DC2F7-26CD-4B4C-8923-6D1D4AF759B8" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-233" StartTime="2018-07-07T07:45:00" EndTime="2018-07-07T10:45:00" Subject="KK Qian" Location="983 Main St, Winchester, 01890" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="7D4C2EB4-B383-40FF-96B2-FC0B6357FFBF" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-223" StartTime="2018-27-06T13:00:00" EndTime="2018-27-06T17:15:00" Subject="Kim Brenna" Location="12 Hancock St, Milford, 01757" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="4313863D-7CB8-4E6A-84C0-00810C32A9D1" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-213" StartTime="2018-17-06T08:30:00" EndTime="2018-17-06T12:35:00" Subject="John Wang" Location="251 Ipswich Rd, Boxford, 01921" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="0BEA2CF3-9D63-4C95-AEAA-E582792645CB" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-203" StartTime="2018-06-06T12:30:00" EndTime="2018-06-06T16:00:00" Subject="David Wang" Location="217 Thorndike St, Cambridge, 02141" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="54639704-E1A8-4E81-B701-083E9789C530" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-193" StartTime="2018-26-05T08:30:00" EndTime="2018-26-05T12:00:00" Subject="Craig Murphy" Location="34 James Way, Scituate, 02066" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="885D984F-B627-44D9-9AFA-4397EDB7A387" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+		<Event EventID="-183" StartTime="2018-19-05T07:30:00" EndTime="2018-19-05T23:00:00" Subject="Mike Uttaro" Location="3 Castle Ave, Medfield, 02052" MultipleSchedules="|0|" LabelID="2" BusyStatus="3" CreationTime="2018-19-10T17:31:43" LastModificationTime="2018-19-10T17:32:10">
+			<CustomProperties>
+				<CustomProperty Name="inspection" Value="1" VariantType="3"/>
+				<CustomProperty Name="guid" Value="5E0CF57A-CF6B-401C-91CF-53DBFBA3958F" VariantType="8"/>
+			</CustomProperties>
+		</Event>
+	</Events>
+</Calendar>

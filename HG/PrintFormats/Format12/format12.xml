@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrintFormat version="1">
+	<Name>Tight</Name>
+	<Desc>Compact Printing Format. Fewest page breaks. Photos at end of each section.</Desc>
+</PrintFormat>

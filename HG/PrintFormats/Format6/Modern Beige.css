@@ -1,0 +1,232 @@
+/* Stylesheet: Format6 Modern Beige */
+
+body, th, td, table {
+	font-family: "Lucida Grande", Verdana, Tahoma, Arial, sans-serif;
+	}
+
+a:link {text-decoration: underline; color: #45484b;}
+a:visited {text-decoration: underline; color: #45484b;}
+a:hover {text-decoration: none; }
+
+@media print {
+	.screen-page-spacer {display: none;}
+	.pic-box {vertical-align: top; text-align: left; padding: 1px !important; }
+	.pic-wrap {vertical-align: top; text-align: left; padding: 1px !important; }
+	.pdf-picture-break { display:block !important; clear:both; }
+	video, .video-js { display:none !important; }
+	.novideoimage { position: relative; } 
+	.novideoimage .poster { border:solid 1px #000; top: 0; left: 0; z-index : 0; }
+	.novideoimage .teaser { position: absolute; top: 0; left: 0; z-index : 1;}
+	.vid-box, .vid-box-centered  { border:none !important; }
+}
+	
+
+@media screen {
+	body {
+  		background-color: #e3d2c0;
+	}
+	.screen-page {width: 92%; background-color:#fff; border: #4c4c4c 2px solid; margin-left: auto; margin-right:auto; padding:10px;}
+	.screen-page-spacer {vertical-align: center; text-align: center; margin-top: 10px; margin-bottom: 10px; padding: 10px 0 10px 0; font-size: 16px; font-weight:bold;}
+	.screen-page-spacer  span {background-color: white; border-top: solid 4px #4c4c4c; border-bottom: solid 4px #4c4c4c;border-right: solid 2px #4c4c4c;border-left: solid 2px #4c4c4c; }
+	.screen-page-spacer  a {margin-left:10px; margin-right:10px; text-decoration: none; }
+	.screen-page-spacer  a:hover {text-decoration: underline; color: #e3d2c0; }
+	.pic-box {background-color: #4c4c4c; vertical-align: top; color: white; text-align: left; }
+	.pic-wrap {background-color: #4c4c4c; vertical-align: top; color: white; text-align: left; }
+	.novideoimage { display:none; } 
+}
+
+.page-break  { margin: 1px; padding: 1px; }
+
+
+@page {
+	size: US-Letter;
+	margin: 30pt 25pt 40pt 25pt;
+	@bottom { content: flow(pdffooter); }
+	@top { content: flow(pdfheader); }
+}
+
+/* removes headers in pdf on first page */
+@page:first {
+       @bottom { content: flow(none); }
+       @top { content: flow(none); }
+}
+
+.page-num { content: counter(page); }
+.pages-num { content: counter(pages); }
+
+.pdf-header { flow: static(pdfheader);}
+.pdf-footer { flow: static(pdffooter);}
+
+.reporttoc a::after {
+  content: leader('.') target-counter(attr(href), page);
+  font-style: normal;
+}
+
+.reporttoc ul, .reporttoc li {
+  list-style: none;
+  margin: 0;
+  padding: 4px;
+}
+
+.reporttoc a { prince-bookmark-target: attr(href); prince-bookmark-level: 1; }
+
+h1 { prince-bookmark-level: none }
+h2 { prince-bookmark-level: none }
+h3 { prince-bookmark-level: none }
+h4 { prince-bookmark-level: none }
+h5 { prince-bookmark-level: none }
+h6 { prince-bookmark-level: none }
+
+h2 {color: #fff; font-size: 18pt; background-color:#4c4c4c; border-top: solid 4px #e3d2c0; border-bottom: solid 4px #e3d2c0; font-weight: bold;   }
+
+thead { display:table-header-group }
+tfoot { display:table-footer-group }
+
+.form .pic-table {page-break-before: avoid;}
+.pic-table div { page-break-after: avoid; }
+.pic-table {  }
+.pic-table-centered{ width: 100%; }
+.pic-box { text-align: center; padding: 5px; vertical-align:top; display: inline-block; page-break-inside: avoid !important; 
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.pic-wrap { text-align: left; padding: 5px; vertical-align:top; display: inline-block; page-break-inside: avoid !important; 
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.comments-picture {	border: 2px solid; margin: 1px auto; }
+
+.vid-box { margin-bottom:4px; border:solid 1px; }
+.vid-box-centered { margin-bottom:4px; margin-left:auto; margin-right:auto; border:solid 1px; }
+
+/* mostly used on cover pages */
+.cover-table-outer { width:100%; page-break-inside: avoid; }
+.cover-table { width:100%; border: 1px solid #0000FF; padding: 0.1cm; }
+.cover-table-padded { padding: 0.2cm; }
+.cover-table-pic { position:absolute; right:5% }
+.cover-col-vert { vertical-align: text-top; text-align: center; background-color: #C4DBFF; }
+.reverse-header { background-color: #C4DBFF; color: white; padding: 0.05cm; font-size: 12pt; }
+
+.cover-tex { text-align: center; font-size: 10pt; }
+.cover-tex-large { text-align: center; font-size: 12pt; }
+
+/* next 2 only used on premium style cover */
+.tablestyle {border-top: #e3d2c0 5px solid; background-color:#4c4c4c; margin-left: auto; color: white; margin-right: auto; border-bottom: #e3d2c0 5px solid;}
+.divstyle {border-top: #4c4c4c 5px solid;  margin-left: auto;  margin-right: auto; }
+
+/* used for invoice */
+.invoice-table {page-break-inside: avoid; width: 100%;}
+.invoice-col-r {width: 50%; text-align: right;}
+.invoice-col-l {width: 50%; text-align: left;}
+.invoice-form {page-break-inside: avoid; width: 100%; margin-left: auto; margin-right: auto; border-collapse: collapse;}
+.invoice-form-col {width: 50%; vertical-align: top; padding:5px; border: 1px solid black;}
+.invoice-form-col-header {width: 50%; vertical-align: top; padding-left:0.25cm; padding-right:0.25cm; color: #45484b; font-size: 14pt; line-height: 41px; border-top: solid 1px #928b79; border-bottom: solid 1px #928b79; }
+
+/* used for headers */
+.header-number { margin-left:5pt;}
+.header-image { margin-left:10pt; margin-bottom: 5pt; margin-right:0pt; float:right; page-break-inside:avoid; }
+
+/* used for the general styles and materials section on the info page*/
+.gen-intro { font-size: 10pt !important;}
+.sm-gen-header { color: black; font-size: 9pt; font-weight : bold;  }
+.sm-gen-answer { color: black; font-size: 9pt;	 }
+.sm-value { font-family: "Courier New", Courier, monospace; font-weight: bold; color:#F00; }
+
+/* used for text at begining of report and sections */
+.introtext  { font-size: 9pt !important;  margin-top: 5px; margin-left: 20px; color: #45484b; vertical-align:top; page-break-inside: avoid; }
+.footertext { font-size: 8pt !important;  padding: 5px 20px 0 20px; margin: 6px 0; color: #45484b; border-top: solid #e3d2c0; border-width: 1px; page-break-inside: avoid; }
+
+/* top level elements */
+.section-header {color: white; font-size: 13pt; padding:6pt; background-color:#4c4c4c; border-top: solid 4px #e3d2c0; border-bottom: solid 4px #e3d2c0; font-weight: bold; margin: 7pt 0 7pt 0; page-break-after:avoid; page-break-inside:avoid !important; }
+.frame {width: 80%; page-break-inside: avoid; }
+
+/* invoice table */
+.pricelist-form { page-break-inside: avoid; width: 100%; margin: 0; }
+.pricelist-form-header { font-weight: bold; }
+.pricelist-form-amt-header { font-weight: bold; text-align:right; }
+.pricelist-form-selection { border-color: #45484b; border-width: 2px; border-style: solid; padding: 0; width: 6; height: 6 }
+.pricelist-form-name {  }
+.pricelist-form-amount { text-align : right; width: 70}
+
+/* invoice text */
+.pricelist-header { color: #7F0000; font-size: 10pt;}
+.pricelist-selection { color: black; font-size: 10pt;}
+.pricelist-name { color: black; font-size: 10pt;}
+.pricelist-amount { color: black; font-size: 10pt;}
+
+/* summary table */
+.summary-form { width: 100%;}
+.summary-form-number {vertical-align: top; white-space: nowrap;}
+.summary-form-question {vertical-align: top;}
+.summary-form-answer {vertical-align: top;}
+.summary-form-estimate {vertical-align: top; text-align:right;}
+.summary-form-comments {vertical-align: top;}
+
+/* summary text */
+.summary-block {width: 100%; margin-left: auto; margin-right: auto; text-align: center;}
+.summary-intro {font-size: 8pt !important; padding: 10px 20px 10px 20px !important; color: #45484b; page-break-inside: avoid;} 
+.summary-footer {font-size: 8pt !important; padding: 2px 20px 0 20px !important; color: #45484b; page-break-inside: avoid; border-top: 1px solid #45484b; margin-top:15px; }
+.summary-header {color: #fff; font-size: 13pt; padding:8px;  background-color:#4c4c4c; border-top: solid 4px #e3d2c0; border-bottom: solid 4px #e3d2c0; font-weight: bold; page-break-after:avoid; page-break-inside:avoid !important; }
+.summary-header-image {display:none;}
+.summary-question-number { color: #45484b; font-size: 10pt; font-weight: bold; vertical-align: top; }
+.summary-answer {color: #45484b; font-size: 10pt; font-weight: bold;}
+.summary-question {color: #45484b; font-size: 10pt; font-weight: bold; vertical-align: top;}  
+.summary-comments {color: #45484b; font-size: 10pt; }
+.summary-comments .pic-box { margin-top:5px; }
+.summary-estimates {color: #45484b; font-size: 10pt;}
+.summaryIcon {margin-right: 4px;}
+.summary-title-consolidated {color: #7f0000; margin-top: 10px; margin-bottom: 10px; font-size: 12pt; font-weight: bold;}  
+
+/* spreadsheets */
+.ss-table { border: 1px solid; border-color:black; border-collapse: collapse; }
+.ss-tr {  }
+.ss-tr:hover { background-color:#e3d2c0; }
+.ss-td { border-color:black; }
+.ss-th { border-color:black; color: white; background-color:#e3d2c0; text-align:center; }
+
+/* work scope */
+.workscope-table { border: 1px solid; border-color:black; border-collapse: collapse; width:100%; }
+.workscope-table-header1 { background-color: #e3d2c0; width:9%; font-size: 12pt; font-weight: bold; padding:5px; padding-bottom:0px; text-align:left; color: black;  }
+.workscope-table-header2 { background-color: #e3d2c0; width:35%; font-size: 12pt; font-weight: bold; padding:5px; padding-bottom:0px; text-align:left; color: black; }
+.workscope-table-header3 { background-color: #e3d2c0; width:35%; font-size: 12pt; font-weight: bold; padding:5px; padding-bottom:0px; text-align:right; color: black; }
+.workscope-table-header4 { background-color: #e3d2c0; font-size: 12pt; font-weight: bold; padding:5px; padding-bottom:0px; text-align:center; color: black; }
+.workscope-entry-table { width:100%; page-break-inside:avoid; }
+.workscope-cell-jobname { background-color: #e3d2c0; font-size: 12pt; padding:5px; padding-top:2px; border-bottom: 1px solid black; }
+.workscope-cell-jobest { background-color: #e3d2c0; font-size: 12pt; padding:5px; padding-top:2px; text-align:right; border-bottom: 1px solid black;  }
+.workscope-cell-jobextra { background-color: #e3d2c0; padding-top:2px; border-bottom: 1px solid black; }
+.workscope-cell-priority {text-align: center; padding:5px; width: 9%; }
+.workscope-cell-name { font-size: 10pt; padding:5px; width:35%; font-weight:bold; }
+.workscope-cell-est { font-size: 10pt; padding:5px; text-align:right; width:35%; font-weight:bold; }
+.workscope-cell-desc { font-size: 9pt; padding:0px 5px 5px 5px; color:#555555;}
+.workscope-cell-xinfo { font-size: 9pt; padding:5px 5px 5px 5px; color:#555555; background-color:#ddd; }
+.workscope-cell-total { background-color: #e3d2c0; font-size: 12pt; padding:5px; text-align:right; border-top: 1px double black; font-weight:bold; }
+.workscope-header { font-size: 8pt; }
+.workscope-header-spacer { padding: 5px; }
+.workscope-footer { font-size: 8pt; }
+.workscope-footer-spacer { padding: 5px; }
+/* used for the comments response to a question */
+.comments-picture { BORDER: 1px solid; MARGIN: 1px auto;  }
+.comments-number { font-size: 10pt; font-weight: bold; }
+.comments-header {display: none;}
+.comments { font-size: 10pt !important; display:block; page-break-after:avoid; }
+
+/* used for the styles and materials section */
+.sm-table {table-layout: auto; width: 100%; margin-left: auto; margin-right: auto; page-break-inside: avoid; }
+.sm-title {color: white; font-size: 12pt !important; background-color:#4c4c4c; border-top: solid 4px #e3d2c0; border-bottom: solid 4px #e3d2c0; font-weight: bold;text-indent: 10pt; padding:5px; margin-top:15pt; clear:right; page-break-after:avoid } 
+.sm-header {FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-LEFT: 15px; COLOR: #4c4c4c; display: block;} 
+.sm-answer {font-size: 9pt; color: #45484B; padding: 0 0 0 5px;MARGIN-LEFT: 15px; display: block;} 
+.sm-col {  } /* Not used in this style */
+.sm-whole { margin-bottom: 5px;}
+
+/* table of questions */
+.form {  }
+.form-question-number 	{vertical-align: top;}
+.form-question 			{vertical-align: top;}
+.form-header 			{vertical-align: top;}
+.form-footer 			{vertical-align: top;}
+.form-answer 			{vertical-align: top;}
+.form-discovery 		{vertical-align: top;}
+.form-key 				{vertical-align: top;}
+
+/* questions and answers text */
+.question-number 	{font-size: 10pt; font-weight: bold; margin-right: 2px;} 
+.question 			{font-size: 10pt; font-weight: bold;} 
+.abbrev 			{font-size: 9pt; font-weight: bold;} 
+.answer 			{font-size: 10pt; color: #7f0000;}
+.discovery 			{font-size: 9pt; padding: 0 0 0 5px;} 

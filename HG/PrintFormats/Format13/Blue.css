@@ -1,0 +1,250 @@
+/* Stylesheet: Format13 Blue */
+
+body, table, th, td { font-family: "Trebuchet MS", Helvetica, sans-serif !important; line-height:1.2em; color:#444; }
+a { text-decoration:underline; }
+a:hover, a:active { text-decoration:none; }
+#hgsummary, .hg-summary { /*display:none;*/ }
+
+video, .vjs-poster { border:solid 1px #0667ac; }
+
+/* used to separate pages from each other */
+@media print {
+	.screen-page-spacer { display:none; }
+	.reporttoc a:visited { color: Blue; }
+	.reporttoc a:link { color: Blue; }
+	.reporttoc a:active { color: Blue; }
+	.reporttoc a:hover { color: Blue; }
+	.pdf-picture-break { display:block !important; clear:both; }
+	video, .video-js { display:none !important; }
+	.novideoimage { position: relative; } 
+	.novideoimage .poster { border:solid 1px #0667ac;}
+	.novideoimage .teaser { position: absolute; top: 0; left: 0; z-index : 1;}	
+}
+	
+@media screen {
+	body { background-color:#0667ac; }
+	.screen-page { width:96%; max-width:1160px;  box-shadow: 0 0 30px #004a80; background-color:#FFF; border: solid 1px #0667ac; margin-left:auto; margin-right:auto; padding:20px; }
+	.screen-page-spacer { text-align:right; font:"Courier New", Courier, monospace; margin-top: 10px; margin-bottom:10px; }
+	.screen-page-spacer  span { background-color: White;  }
+	.screen-page-spacer  a { margin-left:10px; margin-right:10px; text-decoration: none; color: #004a80; }
+	.screen-page-spacer  a:hover { color: red; }
+	.novideoimage { display:none; } 
+}
+
+.page-break  { margin: 1px; padding: 1px; }
+
+@page {
+	size: US-Letter;
+	margin: 30px 25px 40px 25px;
+	padding: 5px 5px;
+	@bottom { content: flow(pdffooter); }
+	@top { content: flow(pdfheader); }
+}
+
+/* removes headers in pdf on first page */
+@page:first {
+       @bottom { content: flow(none); }
+       @top { content: flow(none); }
+}
+
+.page-num { content: counter(page); }
+.pages-num { content: counter(pages); }
+
+.pdf-header { flow: static(pdfheader);}
+.pdf-footer { flow: static(pdffooter);}
+
+.reporttoc a::after {
+  content: leader('.') target-counter(attr(href), page);
+  font-style: normal;
+}
+
+.reporttoc ul, .reporttoc li {
+  list-style: none;
+  margin: 0;
+  padding-bottom: 12px;
+}
+
+.reporttoc a { prince-bookmark-target: attr(href); prince-bookmark-level: 1; }
+
+h1 { prince-bookmark-level: none }
+h2 { prince-bookmark-level: none }
+h3 { prince-bookmark-level: none }
+h4 { prince-bookmark-level: none }
+h5 { prince-bookmark-level: none }
+h6 { prince-bookmark-level: none }
+
+h2 { color: #004a80; /*border:solid 1px black; background-color: #d9e9f5;*/ font-weight: bold; padding:3px;  }
+
+thead { display:table-header-group }
+tfoot { display:table-footer-group }
+
+.form .pic-table { /*page-break-before: avoid;*/ }
+.comments-holder .pic-table { /*page-break-before: avoid;*/ }
+.pic-table div { /*page-break-after: avoid;*/ }
+.pic-table { margin-top:5px; }
+.pic-table-centered{ width: 100%; }
+.pic-box { text-align: center; vertical-align:top; display: inline-block; page-break-inside: avoid !important; padding-top:3px;
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.pic-wrap { text-align: left; vertical-align:top; display: inline-block; page-break-inside: avoid !important; 
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; background:#d9e9f5; padding:5px; }
+
+.vid-box { margin-bottom:4px; }
+.vid-box-centered { margin-bottom:4px; margin-left:auto; margin-right:auto; }
+
+/* mostly used on cover pages */
+.cover-table-outer { width:100%;  }
+.cover-table { width:100%; border: 1px solid #0667ac; padding: 0.1cm; }
+.cover-table-padded { padding: 0.2cm; }
+.cover-table-pic { position:absolute; right:5% }
+.cover-col-vert { vertical-align: text-top; text-align: center; background-color: #d9e9f5; }
+.reverse-header { background-color: #d9e9f5; color: white; padding: 0.05cm; font-size: 13px; }
+
+.cover-tex { text-align: center; font-size: 14px; }
+.cover-tex-large { text-align: center; font-size: 13px; }
+
+/* used for invoice */
+.invoice-table {  width: 100%; }
+.invoice-col-r { width: 50%; text-align: right; }
+.invoice-form {  width: 100%; border:1px solid #0667ac; border-collapse: collapse;  }
+.invoice-form-col { width: 50%; vertical-align: top; border: 1px solid #0667ac; padding:5px; }
+
+/* used for headers */
+.header-number { }
+.header-image { float:right; display:none; }
+
+/* used for the general styles and materials section on the info page*/
+.gen-intro { font-size: 14px !important;}
+.sm-gen-header { color: #004a80; font-size: 13px; font-weight : bold; }
+.sm-gen-answer { color: #004a80; font-size: 13px;	 }
+.sm-value{ font-family: "Courier New", Courier, monospace; font-weight: bold; color:#F00; }
+
+/* used for text at begining of report and sections */
+.introtext { font-size: 11px !important; page-break-inside: avoid; color:#333; margin: 0 0 6px 0; }
+.footertext { font-size: 11px !important; border-top: 1px solid #0667ac; margin: 6px 0 12px 0; padding-top:2px; page-break-inside: avoid; color:#333; }
+
+/* top level elements */
+.section-header { color: #004a80; font-size: 13px; border:solid 1px #0667ac; background-color: #d9e9f5; margin: 7px 0 7px 0; font-weight : bold; padding:3px; page-break-after:avoid; page-break-inside:avoid !important; }
+.frame { width: 100%;   }
+
+/* invoice table */
+.pricelist-form {  width: 100%; margin: 0; }
+.pricelist-form-header { font-weight: bold; }
+.pricelist-form-amt-header { font-weight: bold; text-align:right; }
+.pricelist-form-selection { border-color: #0667ac; border-width: 2px; border-style: solid; padding: 0; width: 6; height: 6 }
+.pricelist-form-name {  }
+.pricelist-form-amount { text-align : right; width: 70}
+
+/* invoice text */
+.pricelist-header { color: #004a80; font-size: 14px;}
+.pricelist-selection { color: #004a80; font-size: 14px;}
+.pricelist-name { color: #004a80; font-size: 14px;}
+.pricelist-amount { color: #004a80; font-size: 14px;}
+
+/* summary table */
+.summary-form { width: 100%;}
+.summary-form-number { vertical-align: top;  white-space:nowrap; }
+.summary-form-question { vertical-align: top; }
+.summary-form-answer { vertical-align: top; }
+.summary-form-estimate { vertical-align: top; text-align:right;  }
+.summary-form-comments { vertical-align: top; }
+
+/* summary text */
+.summary-block { width: 100%; margin-left: auto; margin-right: auto; text-align:center; }
+.summary-intro { font-size: 14px !important; color:#333; padding-bottom:10px; }
+.summary-footer { font-size: 14px !important; color:#333; border-top: 1px solid #0667ac; margin-top:15px; padding-top:2px;  }
+.summary-header { color: #004a80; font-size: 16px; border-bottom: solid 1px #0667ac;  margin: 0; font-weight : bold; page-break-after:avoid; page-break-inside:avoid !important; }
+.summary-header-image { float:right; }
+.summary-question-number { color: #004a80; font-size: 14px; font-weight: bold; vertical-align: top;   }
+.summary-answer { color: #004a80; font-size: 14px; font-weight: bold;}
+.summary-question { color: #004a80; font-size: 14px; font-weight: bold; vertical-align: top; }
+.summary-comments { color: #004a80; font-size: 14px; }
+.summary-comments .pic-box { margin-top:5px; }
+.summary-estimates { color: #004a80; font-size: 14px;}
+.summaryIcon { margin-right: 4px;  }
+.summary-title-consolidated { margin-top: 10px; margin-bottom: 10px; font-size: 13px; font-weight: bold;}
+
+/* spreadsheets */
+.ss-table { border: 1px solid; border-color:#0667ac; border-collapse: collapse; }
+.ss-tr {  }
+.ss-tr:hover { background-color:#d9e9f5; }
+.ss-td { border-color:#0667ac; }
+.ss-th { border-color:#0667ac; color: #004a80; background-color:#d9e9f5; text-align:center; }
+
+/* work scope */
+.workscope-table { border: 1px solid #0667ac; border-collapse: collapse; width:100%; }
+.workscope-table-header1 { background-color: #d9e9f5; width:9%; font-size: 13px; font-weight: bold; padding:5px; padding-bottom:0px; text-align:left; color: #0667ac;  }
+.workscope-table-header2 { background-color: #d9e9f5; width:35%; font-size: 13px; font-weight: bold; padding:5px; padding-bottom:0px; text-align:left; color: #0667ac; }
+.workscope-table-header3 { background-color: #d9e9f5; width:35%; font-size: 13px; font-weight: bold; padding:5px; padding-bottom:0px; text-align:right; color: #0667ac; }
+.workscope-table-header4 { background-color: #d9e9f5; font-size: 13px; font-weight: bold; padding:5px; padding-bottom:0px; text-align:center; color: #0667ac; }
+.workscope-entry-table { width:100%; page-break-inside:avoid; }
+.workscope-cell-jobname { background-color: #d9e9f5; font-size: 13px; padding:5px; padding-top:2px; border-bottom: 1px solid #0667ac; }
+.workscope-cell-jobest { background-color: #d9e9f5; font-size: 13px; padding:5px; padding-top:2px; text-align:right; border-bottom: 1px solid #0667ac;  }
+.workscope-cell-jobextra { background-color: #d9e9f5; padding-top:2px; border-bottom: 1px solid #0667ac; }
+.workscope-cell-priority {text-align: center; padding:5px; width: 9%; }
+.workscope-cell-name { font-size: 14px; padding:5px; width:35%; font-weight:bold; }
+.workscope-cell-est { font-size: 14px; padding:5px; text-align:right; width:35%; font-weight:bold; }
+.workscope-cell-desc { font-size: 13px; padding:0px 5px 5px 5px; color:#555555;}
+.workscope-cell-xinfo { font-size: 13px; padding:5px 5px 5px 5px; color:#555555; background-color:#ddd; }
+.workscope-cell-total { background-color: #d9e9f5; font-size: 13px; padding:5px; text-align:right; border-top: 1px double #0667ac; font-weight:bold; }
+.workscope-header { font-size: 11px; }
+.workscope-header-spacer { padding: 5px; }
+.workscope-footer { font-size: 11px; }
+.workscope-footer-spacer { padding: 5px; }
+/* used for the comments response to a question */
+.comments-picture { border: 1px solid #0667ac; margin-right:0.1cm }
+.comments-number { font-size: 14px; font-weight: bold; }
+.comments-header { font-size: 14px; font-weight: bold; }
+.comments { font-size: 14px !important; display:block; page-break-after:avoid; }
+.comments-below { page-break-after:auto; }
+.comments-text { display:block; /*page-break-after:avoid;*/ }
+.comments-sub-number { float:left; display:none; }
+.pic-wrap .comments {  }
+
+/* used for the styles and materials section */
+.sm-container { display:inline-block; width:45%; margin-right:5px; vertical-align:top; padding:5px 0 0 5px; }
+.sm-table { table-layout: auto; width: 100%; }
+.sm-title { font-size: 13px; font-weight: bold; color: #004a80;  border-bottom:solid 1px #0667ac; margin: 3px 0 3px 0; padding-left:2px;  page-break-after: avoid; }
+.sm-header { font-size: 13px; font-weight : bold; }
+.sm-answer { font-size: 13px; padding-left:0px; }
+.sm-col {  }
+div.sm-whole:hover { background-color:#d9e9f5; }
+.sm-whole {  }
+
+
+/* table of questions */
+.form {  }
+.form-question-number { vertical-align: top }
+.form-question {vertical-align: top }
+.form-header {vertical-align: top  }
+.form-footer { vertical-align: top }
+.form-answer { vertical-align: top	 }
+.form-discovery { vertical-align: top }
+.form-key { vertical-align: top }
+.form tr:hover  {    background-color:#d9e9f5;}
+
+/* questions and answers text */
+.question-number {  font-size: 14px; font-weight : bold; padding-right:3px; }
+.question { font-size: 14px;  }
+.abbrev { font-size: 13px; font-weight: bold;}
+.answer { font-size: 14px; font-weight: bold; }
+.discovery { font-size: 13px; }
+
+/* top level elements */
+.heading2 { font-size:18px; margin:14px 0 0 0; padding:6px 8px; background:#0667ac; color:#FFF; }
+.section-header { padding:8px 8px 6px 8px; }
+.summary-header { padding:8px 8px 6px 8px; }
+
+.commentsBox { font-size: 14px; padding:7px 0 0 4px; line-height:1.15em; }
+
+.sm-header { font-weight:bold; }
+.sm-main-title { color:#555; font-size:30px; margin-top:15px; }
+.ii-main-title { color:#555; font-size:30px; margin-top:15px; }
+
+.comments-header { display:none; }
+.comments-number { /*display:none;*/ }
+.comments-number-empty { display:none; }
+
+.inspection-item { font-size: 18px; page-break-after:avoid; padding:4px 8px; margin-top:7px; border:solid 1px #0667ac; /*border-right:none; border-left:none;*/ background:#d9e9f5; }
+.inspection-item-first { margin-top: -1px; }
+.inspection-item-empty {}
+.inspection-item-group {  border:solid 1px #0667ac; background:#d9e9f5; padding:5px; margin-top:5px; }

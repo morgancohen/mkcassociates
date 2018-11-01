@@ -1,0 +1,66 @@
+<html>
+<head>
+</head>
+<body>
+<table class="summary-form">
+  <tr valign="top">
+    <td>*print.logo1* &nbsp;</td>
+    <td><span style="font-size:x-large"><strong>INVOICE</strong></span></td>
+  </tr>
+</table>
+
+<br clear="all" />
+
+<table class="summary-form">
+  <tr valign="top">
+    <td width="50%"><b>      *reportinfo.inspectorCompany*
+      <br />
+      
+      *reportinfo.inspectorContact*
+      <br />
+      Inspected By:&nbsp;
+*reportinfo.inspector*
+</b> </td>
+    <td class="invoice-col-r"><b>Inspection Date:</b> *reportinfo.date*
+      <br />
+      <b>Report ID: </b>*reportinfo.reportID*
+</td>
+  </tr>
+</table>
+<br />
+
+<table class="invoice-form">
+<tr valign="top">
+  <td class="invoice-form-col"><strong>Customer Info:</strong></td>
+  <td class="invoice-form-col"><strong>Inspection Property:</strong></td>
+</tr>
+<tr valign="top">
+  <td class="invoice-form-col">*client.fullnames*
+    <br />
+    <span class="pricelist-name">
+    *client.fulladdress*
+    </span><br />    <br />
+    <strong>Customer's Real Estate Professional:</strong><br />
+*reportinfo.rep1FullName*
+<br />
+*reportinfo.rep1Company*
+&nbsp;</td>
+	<td class="invoice-form-col">*reportinfo.fulladdress*
+&nbsp;	</td>
+</tr>		
+</table>
+   
+<p />
+
+<b>Inspection Fee:</b>
+<table class="invoice-table">
+  <tr><td>*reportinfo.priceitems*</td></tr>
+<tr><td class="invoice-col-r"><hr /><strong>Tax $</strong>*reportinfo.tax*</td></tr>
+<tr><td class="invoice-col-r"><strong>Total Price $</strong>*reportinfo.price*</td></tr>
+</table>
+<p><strong>Payment Method:</strong> *reportinfo.paymentMethod*<br />
+<strong>Payment Status:</strong> *reportinfo.paymentStatus*<br />
+<strong>Note:</strong> *reportinfo.paymentNote*<br />
+</p>
+</body>
+</html>

@@ -1,0 +1,7 @@
+CD Documents
+CD HomeGauge
+CD html5
+findstr /C:"Our inspection"
+findstr /C:"Our inspection" *.*
+findstr /C:"Our inspection makes" *.*
+doskey /history > doskeyHistory.txt

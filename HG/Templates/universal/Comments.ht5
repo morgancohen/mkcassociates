@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template version="5">
+	<tCreatedBy></tCreatedBy>
+	<tLastModBy>David Beane</tLastModBy>
+	<tLastMod>2018/10/12 18:25:19</tLastMod>
+	<SameSummariesItemized>0</SameSummariesItemized>
+	<SingleSummarySelection>0</SingleSummarySelection>
+	<tDesc></tDesc>
+	<cons>
+		<con>.</con>
+		<con>is</con>
+		<con>are</con>
+		<con>Also,</con>
+		<con>and</con>
+		<con>also</con>
+		<con>at</con>
+		<con>on</con>
+		<con>above</con>
+		<con>has</con>
+		<con>the</con>
+		<con>all</con>
+		<con>or</con>
+		<con>under</con>
+		<con>near</con>
+		<con>,</con>
+		<con>.</con>
+		<con>the</con>
+	</cons>
+	<st>
+		<stKey>contractor</stKey>
+		<stTS>2009/01/14 14:14:31</stTS>
+		<stVal>electrician</stVal>
+		<stVal>plumber</stVal>
+		<stVal>pest control company</stVal>
+	</st>
+	<st>
+		<stKey>item</stKey>
+		<stTS>2009/01/14 14:13:11</stTS>
+		<stVal>item</stVal>
+		<stVal>component</stVal>
+		<stVal>part</stVal>
+		<stVal>device</stVal>
+	</st>
+	<st>
+		<stKey>problem</stKey>
+		<stTS>2009/01/14 14:23:12</stTS>
+		<stVal>not working</stVal>
+		<stVal>is defective</stVal>
+		<stVal>is non operational</stVal>
+	</st>
+	<com id="C-10513B55-F84D-4AE2-9F36-D238D6C20C88">
+		<comName>Front Elevation</comName>
+		<comText>Front Elevation</comText>
+		<comTS>2014/08/11 16:12:50</comTS>
+	</com>
+	<com id="C-12505387-ADC0-4DD5-8E84-3D945216AE0E">
+		<comName>Elevation</comName>
+		<comText>Elevation views</comText>
+		<comTS>2014/08/11 16:15:46</comTS>
+	</com>
+	<com id="C-23417386-C15E-4F80-9D11-8F6FFCA808BA">
+		<comName>~JTM: Treat Ant HOA</comName>
+		<comText>If there is no documented history of treatment for carpenter ants, treatment of the garage and building is recommended. It is suggested that the HOA maintain a contract with a local pest control operator that provides for regular wood destroying insect inspections and treatment as needed.</comText>
+		<comTS>2018/08/23 07:02:08</comTS>
+	</com>
+	<com id="C-4F1D73DB-18BA-461C-93AF-B39858A6F568">
+		<comName>Roof wall</comName>
+		<comText>Roof/wall attachment</comText>
+		<comTS>2014/08/11 16:16:31</comTS>
+	</com>
+	<com id="C-51A0B16E-8E82-4C97-A56E-E17DD9AA5A62">
+		<comName>company name</comName>
+		<comText>Edit this for your company name</comText>
+		<comTS>2009/01/07 16:26:15</comTS>
+	</com>
+	<com id="C-58A39782-1381-4EC8-82A5-D8AB737E3110">
+		<comName>company address</comName>
+		<comText>Edit and enter your company address</comText>
+		<comTS>2009/01/07 16:34:35</comTS>
+	</com>
+	<com id="C-5AC10FF9-01BD-4643-BE4D-4BBB65519A67">
+		<comName>JTM Treat</comName>
+		<comText>Treatment for carptenter ants is recommended. Regular reinspection (every year) with treatment as needed is recomended. [Pest Control Operator]</comText>
+		<comTS>2017/08/10 14:35:52</comTS>
+	</com>
+	<com id="C-5B6208A8-13B8-4396-9926-813DB60DC35C">
+		<comText>Edit and enter City, State, Zip</comText>
+		<comTS>2009/01/07 16:37:42</comTS>
+	</com>
+	<com id="C-62612DE3-868B-42D0-A2E0-810FAADDDA13">
+		<comName>Rear</comName>
+		<comText>Rear Elevation</comText>
+		<comTS>2014/08/11 16:13:08</comTS>
+	</com>
+	<com id="C-777E5A9E-4391-490E-A3B2-F68A0E2C9BAE">
+		<comName>Name of inspector</comName>
+		<comText>Edit and enter inspector's name</comText>
+		<comTS>2009/01/07 16:38:52</comTS>
+	</com>
+	<com id="C-7945D072-F39D-4EF7-B041-C2E99F9CABE4">
+		<comName>JTM - No signs</comName>
+		<comText>Regular reinspection for wood destroying insects is recommneded (every 2-3 years). Keep all wood dry and avoid soil contact with wood.</comText>
+		<comTS>2017/02/20 13:08:19</comTS>
+	</com>
+	<com id="C-7D9F09F7-DD19-4525-A7B2-09544AD85568">
+		<comName>Right</comName>
+		<comText>Right side (facing front)</comText>
+		<comTS>2014/08/11 16:13:47</comTS>
+	</com>
+	<com id="C-7F2AE187-E315-4502-A7F5-348DA17ED7D6">
+		<comName>Treat &amp; Contract</comName>
+		<comText>If there is no documented history of treatment for carpenter ants and/or termites, treatment is recommended. If there is documented history and contract with a provider, then maintaining contract is recommended. If treatment occurred but no contract is in place, annual reinspection for wood destroying insects is recommended, with treatment as needed.</comText>
+		<comTS>2016/09/20 22:59:50</comTS>
+	</com>
+	<com id="C-812B8738-FAB6-46E6-924D-713E8E60166D">
+		<comName>sample smart sentence</comName>
+		<comText>The *item* is *problem*. I recommend a qualified *contractor* inspect further and repair or replace as needed.</comText>
+		<comTS>2009/01/14 14:23:18</comTS>
+	</com>
+	<com id="C-888374F1-9582-4F22-B413-D63403F39CE4">
+		<comName>Roof Covering</comName>
+		<comText>Roof covering</comText>
+		<comTS>2014/08/11 16:16:04</comTS>
+	</com>
+	<com id="C-97EC7F7F-4C1D-423D-81BE-689F727D4117">
+		<comName>Damage found</comName>
+		<comText>Annual reinspection for wood destroying insects recommended. Verify any documented history of pest treatment on the property. If no known or documented history of treatment exists, treat property for termites, and powderpost beetles as necessary. Maintain dry conditions in basement areas and keep all wood framing dry.</comText>
+		<comTS>2016/02/06 14:23:45</comTS>
+	</com>
+	<com id="C-A841DAD6-AA1A-4957-B5ED-C950DA67EF85">
+		<comName>Company phone</comName>
+		<comText>Edit and enter your phone number</comText>
+		<comTS>2009/01/07 16:35:27</comTS>
+	</com>
+	<com id="C-B013B651-2C0A-4A13-A0B5-FEC8D4EA8312">
+		<comName>Attic</comName>
+		<comText>Attic area</comText>
+		<comTS>2014/08/11 16:14:28</comTS>
+	</com>
+	<com id="C-B253A7F5-0136-4B24-BD7E-EE507A46574E">
+		<comName>~JTM: Damage treat &amp; contract</comName>
+		<comText>If there is no documented history of treatment, treat the property for carpenter ants. Maintain or obtain a contract with a pest control operator that provides annual wood destroying insect inspections. Installation of a vapor barrier in the crawlspace is recommended.</comText>
+		<comTS>2018/05/19 14:49:28</comTS>
+	</com>
+	<com id="C-B6C8CFC8-F300-4CB9-A71C-063F4A6DDD80">
+		<comName>Left</comName>
+		<comText>Left side (facing front)</comText>
+		<comTS>2014/08/11 16:14:08</comTS>
+	</com>
+	<com id="C-C3CC170D-2FAC-4313-9275-229171F3145B">
+		<comName>Opening protection</comName>
+		<comText>Opening protection</comText>
+		<comTS>2014/08/11 16:16:56</comTS>
+	</com>
+	<com id="C-C76150D2-6D54-4093-BD68-D77AC49D44AE">
+		<comName>No Damage, No Activity</comName>
+		<comText>Regular re-inspection for wood destroying insects is recommended (Every 2-3 years). Keep wood to soil contact to a minimum, drain water away from home.</comText>
+		<comTS>2016/01/26 17:00:56</comTS>
+	</com>
+	<com id="C-D00DC72F-CA8F-4764-B71D-D6CF4F7B5B6B">
+		<comName>Roof deck</comName>
+		<comText>Roof deck</comText>
+		<comTS>2014/08/11 16:16:17</comTS>
+	</com>
+	<com id="C-D23C0AFA-D290-453A-AC03-E429676066D7">
+		<comText>Annual reinspection for wood destroying insects recommended. Verify any documented history of pest treatment on the property. If no known documented history of treatment and contract with provider exists, treat property for &lt;strong&gt;&lt;em&gt;WDI's&lt;/em&gt;&lt;/strong&gt; as necessary. Maintain dry conditions throughout the home and keep all wood framing dry.</comText>
+		<comTS>2016/03/15 18:44:43</comTS>
+	</com>
+	<com id="C-D270ABB5-0235-46AA-ABF3-584373CA7E81">
+		<comName>not working</comName>
+		<comText>This item is not working properly. I recommend a qualified contractor inspect further and repair or replace as needed.</comText>
+		<comTS>2009/01/14 14:09:43</comTS>
+	</com>
+	<com id="C-E99F7418-0C9E-4143-B18E-0B723E00088C">
+		<comName>Bus lic #</comName>
+		<comText>Edit and enter your license number</comText>
+		<comTS>2009/01/07 16:27:24</comTS>
+	</com>
+	<com id="C-F2CBCBC3-48FA-4F56-9331-6708FA040E00">
+		<comName>ID #</comName>
+		<comText>Edit and enter your ID #&amp;#160;</comText>
+		<comTS>2009/01/07 16:40:03</comTS>
+	</com>
+	<com id="C-F5E879D8-2897-4B6D-9811-BC1210A20DB7">
+		<comName>working properly</comName>
+		<comText>The item I am inspecting is working properly.</comText>
+		<comTS>2009/01/14 14:08:49</comTS>
+	</com>
+	<cat>
+		<catName>Inspection company info</catName>
+		<catCID>C-51A0B16E-8E82-4C97-A56E-E17DD9AA5A62</catCID>
+		<cat>
+			<catName>Business License #</catName>
+			<catCID>C-E99F7418-0C9E-4143-B18E-0B723E00088C</catCID>
+			<cat>
+				<catName>Company Address</catName>
+				<catCID>C-58A39782-1381-4EC8-82A5-D8AB737E3110</catCID>
+				<cat>
+					<catName>Phone number</catName>
+					<catCID>C-A841DAD6-AA1A-4957-B5ED-C950DA67EF85</catCID>
+					<cat>
+						<catName>company city</catName>
+						<catCID>C-5B6208A8-13B8-4396-9926-813DB60DC35C</catCID>
+						<cat>
+							<catName>Inspector Name</catName>
+							<catCID>C-777E5A9E-4391-490E-A3B2-F68A0E2C9BAE</catCID>
+							<cat>
+								<catName>I.D. Card number</catName>
+								<catCID>C-F2CBCBC3-48FA-4F56-9331-6708FA040E00</catCID>
+							</cat>
+						</cat>
+					</cat>
+				</cat>
+			</cat>
+		</cat>
+	</cat>
+	<cat>
+		<catName>Pass comments</catName>
+		<catCID>C-F5E879D8-2897-4B6D-9811-BC1210A20DB7</catCID>
+		<catCID>C-C76150D2-6D54-4093-BD68-D77AC49D44AE</catCID>
+		<catCID>C-97EC7F7F-4C1D-423D-81BE-689F727D4117</catCID>
+	</cat>
+	<cat>
+		<catName>Fail comments</catName>
+		<catCID>C-D270ABB5-0235-46AA-ABF3-584373CA7E81</catCID>
+		<catCID>C-812B8738-FAB6-46E6-924D-713E8E60166D</catCID>
+		<catCID>C-D23C0AFA-D290-453A-AC03-E429676066D7</catCID>
+		<catCID>C-7F2AE187-E315-4502-A7F5-348DA17ED7D6</catCID>
+		<catCID>C-B253A7F5-0136-4B24-BD7E-EE507A46574E</catCID>
+		<catCID>C-23417386-C15E-4F80-9D11-8F6FFCA808BA</catCID>
+	</cat>
+	<cat>
+		<catName>Picture labels</catName>
+		<catCID>C-10513B55-F84D-4AE2-9F36-D238D6C20C88</catCID>
+		<catCID>C-62612DE3-868B-42D0-A2E0-810FAADDDA13</catCID>
+		<catCID>C-B6C8CFC8-F300-4CB9-A71C-063F4A6DDD80</catCID>
+		<catCID>C-7D9F09F7-DD19-4525-A7B2-09544AD85568</catCID>
+		<catCID>C-B013B651-2C0A-4A13-A0B5-FEC8D4EA8312</catCID>
+		<catCID>C-12505387-ADC0-4DD5-8E84-3D945216AE0E</catCID>
+		<catCID>C-888374F1-9582-4F22-B413-D63403F39CE4</catCID>
+		<catCID>C-D00DC72F-CA8F-4764-B71D-D6CF4F7B5B6B</catCID>
+		<catCID>C-4F1D73DB-18BA-461C-93AF-B39858A6F568</catCID>
+		<catCID>C-C3CC170D-2FAC-4313-9275-229171F3145B</catCID>
+	</cat>
+	<colsingleSelection>0</colsingleSelection>
+	<genInfo>
+	</genInfo>
+	<picInfo>
+		<picCID>C-C3CC170D-2FAC-4313-9275-229171F3145B</picCID>
+		<picCID>C-B013B651-2C0A-4A13-A0B5-FEC8D4EA8312</picCID>
+		<picCID>C-12505387-ADC0-4DD5-8E84-3D945216AE0E</picCID>
+		<picCID>C-10513B55-F84D-4AE2-9F36-D238D6C20C88</picCID>
+		<picCID>C-B6C8CFC8-F300-4CB9-A71C-063F4A6DDD80</picCID>
+		<picCID>C-62612DE3-868B-42D0-A2E0-810FAADDDA13</picCID>
+		<picCID>C-7D9F09F7-DD19-4525-A7B2-09544AD85568</picCID>
+		<picCID>C-888374F1-9582-4F22-B413-D63403F39CE4</picCID>
+		<picCID>C-D00DC72F-CA8F-4764-B71D-D6CF4F7B5B6B</picCID>
+		<picCID>C-4F1D73DB-18BA-461C-93AF-B39858A6F568</picCID>
+	</picInfo>
+	<picLabelInfo>
+	</picLabelInfo>
+	<picSSMergeInfo>
+	</picSSMergeInfo>
+	<workscopeInfo>
+	</workscopeInfo>
+</template>

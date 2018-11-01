@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrintFormat version="1">
+	<Name>Tickbox 2 (TX)</Name>
+	<Desc>TX required, Style/Materials and comments all per item</Desc>
+	<state-tx>1</state-tx>
+</PrintFormat>

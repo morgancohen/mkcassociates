@@ -1,0 +1,283 @@
+/* Stylesheet: Format7b Orange */
+
+/* 
+hgImageInclude("images\line.gif", "images\line1.jpg")
+*/
+
+body, th, td, table { font-family: Arial, Helvetica, sans-serif; }
+a:hover { text-decoration:none; }
+
+video, .vjs-poster { border:solid 1px #000; }
+
+a img{border:0px;}
+.clear{clear:both;}
+
+/****** header css ****/
+.logo1{float:left; width:160px;}
+.centertext{float:left; width:349px;}
+.righttext{float:right; width:420px;}
+.homeb{padding-top:10px; color:#FFFFFF; font-size:30px;}
+.space{padding-top:10px; color:#FFFFFF; font-size:30px;}
+.toptext{float:left; width:200px;}
+.rightlogo{float:right;}
+.logo{display:inline-block; width:150px; text-align:center; padding-top:10px;}
+.headerSection h2{font-size:22px; color:#0a5eb4;}
+.headerSection h3{font-size:16px; padding:5px 0;}
+.centercontent{float:left;}
+
+.heading2{padding-left:15px; border-bottom:1px dotted #ccc; padding:0 10px 10px 10px; margin:0 15px 10px 15px;}
+.contenttext{margin:0 15px 0 15px;}
+.text{color:#636363;}
+.subTask{list-style:none;}
+.subTask li{float:left; width:200px; padding:0px 10px 10px 0;}
+.subTask li strong{color:#1565b6;}
+.hedd{margin-bottom:10px; color:#ff7800;}
+.hedd1{ color:#ff7800; padding:0 10px 5px 0px; margin:5px 0px 5px 0px}
+
+.table{width:100%; margin:10px 0; border:1px solid #fec800;  display:table; list-style:none; border-bottom:0px; border-right:0;}
+.table li{border-bottom:1px solid #fec800;}
+.table li.ghead{background:url(images/line.gif) repeat-x;}
+.table li:hover{background:url(images/line.gif) repeat-x;}
+.table span{display:table-cell; #display:inline-block; border-right:1px solid #fec800; padding:6px; }
+
+.commentsBox{
+	padding:10px;
+	border:1px solid #fec800; 
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;	
+
+	margin-bottom:15px;
+	position:relative;
+	}
+
+.singlePhoto .commentText{ float:left; width:200px;}
+.commentsPic{display:inline-block; margin:0px;}
+.commentsPic img{border:7px solid #efefef;}
+.textim{float:left; width:35%; }
+.textim1{float:left; width:50px; text-align:center; }
+.textim2{float:left; width:65%;}
+.textrightim{float:right;}
+.bottom{margin-right:1px;}
+
+
+/*********** print css *************/
+@media print {
+	.page-break	{ display:block; page-break-before:always; }
+	.contentDiv{ display:block; }
+	.screen-page-spacer { display:none; }
+	.reporttoc a:visited { color: Blue; }
+	.reporttoc a:link { color: Blue; }
+	.reporttoc a:active { color: Blue; }
+	.reporttoc a:hover { color: Blue; }
+	.commentsBox{ padding:5px; }
+	.pdf-picture-break { display:block !important; clear:both; }
+	.avoid-page-break-after { page-break-after:avoid; }
+	video, .video-js { display:none !important; }
+	.novideoimage { position: relative; } 
+	.novideoimage .poster { border:solid 1px #000;}
+	.novideoimage .teaser { position: absolute; top: 0; left: 0; z-index : 1;}
+}
+
+@media screen {
+	body { background-color:#555; }
+	.screen-page { width:96%; background-color:#fff; border: solid 1px #000; margin-left:auto; margin-right:auto; padding:10px; }
+	.screen-page-spacer { text-align:right; font:"Courier New", Courier, monospace; margin-top: 10px; margin-bottom:10px; }
+	.screen-page-spacer  span { background-color: White;  }
+	.screen-page-spacer  a { margin-left:10px; margin-right:10px; text-decoration: none; color: Black; }
+	.screen-page-spacer  a:hover { color: red; }
+	.novideoimage { display:none; } 
+}
+
+h1 { prince-bookmark-level: none }
+h2 { prince-bookmark-level: none }
+h3 { prince-bookmark-level: none }
+h4 { prince-bookmark-level: none }
+h5 { prince-bookmark-level: none }
+h6 { prince-bookmark-level: none }
+
+.page-break  { margin: 1px; padding: 1px; page-break-before: avoid; }
+
+@page {
+	size: US-Letter;
+	margin: 30pt 25pt 40pt 25pt;
+	padding: 5pt 5pt;
+	@bottom { content: flow(pdffooter); }
+	@top { content: flow(pdfheader); }
+}
+
+/* removes headers in pdf on first page */
+@page:first {
+       @bottom { content: flow(none); }
+       @top { content: flow(none); }
+}
+
+.page-num { content: counter(page); }
+.pages-num { content: counter(pages); }
+
+.pdf-header { flow: static(pdfheader);}
+.pdf-footer { flow: static(pdffooter);}
+
+.reporttoc a::after {
+  content: leader('.') target-counter(attr(href), page);
+  font-style: normal;
+}
+.reporttoc ul, .reporttoc li {
+  list-style: none;
+  margin: 0;
+  padding-bottom: 12px;
+}
+.reporttoc a { prince-bookmark-target: attr(href); prince-bookmark-level: 1; }
+
+.form .pic-table { page-break-before: avoid; }
+.comments-holder .pic-table { page-break-before: avoid; }
+.pic-table div { page-break-after: avoid; }
+.pic-table { }
+.pic-table-centered{ width: 100%; }
+.pic-box { text-align: center; vertical-align:top; display: inline-block; page-break-inside: avoid !important; padding-top:3px;
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+.pic-wrap { text-align: left; vertical-align:top; display: inline-block; page-break-inside: avoid !important; padding-top:3px;
+min-height: 150px; zoom: 1; *display: inline; margin: 3px; _height: 150px; }
+
+.vid-box { margin-bottom:4px; }
+.vid-box-centered { margin-bottom:4px; margin-left:auto; margin-right:auto; }
+
+/* mostly used on cover pages */
+.cover-table-outer { width:100%; page-break-inside: avoid; }
+.cover-table { width:100%; border: 1px solid black; padding: 0.1cm; }
+.cover-table-padded { padding: 0.2cm; }
+.cover-table-pic { position:absolute; right:5% }
+.cover-col-vert { vertical-align: text-top; text-align: center; background-color: #eeeeee; }
+.reverse-header { background-color: #eeeeee; color: white; padding: 0.05cm; font-size: 12pt; }
+
+.cover-tex { text-align: center; font-size: 10pt; }
+.cover-tex-large { text-align: center; font-size: 12pt; }
+
+/* used for the general styles and materials section on the info page*/
+.gen-intro { font-size: 10pt !important;}
+.sm-gen-header { color: black; font-size: 9pt; font-weight : bold; }
+.sm-gen-answer { color: black; font-size: 9pt;	 }
+
+/* used for invoice */
+.invoice-table { page-break-inside: avoid; width: 100%; }
+.invoice-col-r { width: 50%; text-align: right; }
+.invoice-form { page-break-inside: avoid; width: 100%; border-collapse: collapse; }
+.invoice-form-col { width: 50%; vertical-align: top; border: 1px solid black; padding:5px; padding-right:0.05cm }
+
+/* invoice table */
+.pricelist-form { page-break-inside: avoid; width: 100%; margin: 0; }
+.pricelist-form-header { font-weight: bold; }
+.pricelist-form-amt-header { font-weight: bold; text-align:right; }
+.pricelist-form-selection { border-color: black; border-width: 2px; border-style: solid; padding: 0; width: 6; height: 6 }
+.pricelist-form-name {  }
+.pricelist-form-amount { text-align : right; width: 70}
+
+/* invoice text */
+.pricelist-header { color: black; font-size: 10pt;}
+.pricelist-selection { color: black; font-size: 10pt;}
+.pricelist-name { color: black; font-size: 10pt;}
+.pricelist-amount { color: black; font-size: 10pt;}
+
+/* used for headers */
+.header-number { margin-left: 3px; }
+.header-image { float:right; margin-bottom: 10pt;}
+
+/* used for text at begining of report and sections */
+.introtext { font-size: 8pt !important; color:#636363; margin: 0 0 6px 0; page-break-inside: avoid;}
+.footertext { font-size: 8pt !important; color:#636363; border-top: 1px dotted #fec800; padding-top: 3px; padding-bottom:10px; margin-bottom: 6px; page-break-inside: avoid;}
+
+/* used for the styles and materials section */
+.sm-table { table-layout: auto; width: 100%; }
+.sm-title { text-align: center; color: #ff7800; font-size: 10pt; font-weight : bold; border-bottom:1px dotted #ccc; border-top:1px dotted #ccc; padding: 3px; margin-top: 6px; }
+.sm-header { color: black;font-size: 9pt; font-weight : bold;}
+.sm-answer { font-size: 9pt; margin-left: 3px; color: #636363; }
+.sm-col { width: 30%; }
+div.sm-whole:hover { background-color:#e1e1e1; }
+.sm-whole { margin-bottom: 5px; }
+
+/* table of questions */
+.form { page-break-inside: avoid; border-collapse: collapse; width: 100%; }
+.form-question-number { width:10px; border-color: #fec800; border-width: 1px; border-style: solid; padding:0.1cm; }
+.form-question { font-size: 10pt; border-color: #fec800; border-width: 1px; border-style: solid; padding:0.1cm; }
+.form-header {  border-color: #fec800; border-width: 1px; border-bottom-style: solid; }
+.form-footer { border-color: #fec800; border-width: 1px; border-top-style: solid }
+.form-answer { 	border: #fec800 1px solid;text-align: center; vertical-align: top; padding:0.1cm; }
+.form-answer-checked { background-color:#ffeba1; }
+.form-discovery { border-color: #fec800; text-align: center; border-width: 1px; border-style: solid }
+.form-key { color: black; font-size: 8pt; margin-top: 3px; }
+.formhov { page-break-inside: avoid; }
+.form tr:hover{background:#fff7db url(images/line.gif) repeat-x;}
+.ghead{ background:#fff7db url(images/line.gif) repeat-x; }
+
+/* questions and answers text */
+.question-number {  font-size: 9pt; }
+.question { font-size: 9pt; }
+.abbrev { font-size: 10pt; font-weight: bold;}
+.answer { font-size: 10pt; }
+.discovery { font-size: 9pt; }
+
+.comments-picture { border: 1px solid; margin-right:0.1cm }
+.comments-number { font-size: 11pt; font-weight: bold; color: black; }
+.comments-sub-number { font-size: 11pt; color: black }
+.comments-header { font-size: 10pt; font-weight: bold; padding-bottom: 0; margin-bottom: 0;}
+.comments { font-size: 10pt; }
+.comments-holder { padding:6px; }
+.comments-text { font-size: 10pt !important; }
+.comments-text li { margin-left: 2cm;  }
+
+/* summary table */
+.summary-form { width: 100%;}
+.summary-form-number { vertical-align: top;  white-space:nowrap; }
+.summary-form-question { vertical-align: top; }
+.summary-form-answer { vertical-align: top; }
+.summary-form-estimate { vertical-align: top; text-align:right;  }
+.summary-form-comments { vertical-align: top; }
+
+/* summary text */
+.summary-block { width: 100%; margin-left: auto; margin-right: auto; text-align:center; }
+.summary-intro { font-size: 10pt !important; page-break-inside: avoid; margin-bottom:10pt; }
+.summary-footer { font-size: 10pt !important; border-top: 1px solid black; page-break-inside: avoid; }
+.summary-header { color: black; font-size: 12pt; margin: 0; font-weight : bold; page-break-after: avoid; page-break-inside:avoid;
+	padding:5px;
+	border:1px solid #fec800; 
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius:5px;	
+ }
+.summary-header-image { float:right; }
+.summary-question-number { color: black; font-size: 10pt; font-weight: bold; vertical-align: top; }
+.summary-answer { color: black; font-size: 10pt; font-weight: bold;}
+.summary-question { color: black; font-size: 10pt; font-weight: bold; vertical-align: top;}
+.summary-comments { color: black; font-size: 10pt;}
+.summary-comments .pic-box { margin-top:5px; }
+.summary-estimates { color: black; font-size: 10pt;}
+.summaryIcon { margin-right: 6px; }
+.summary-title-consolidated { margin-top: 10px; margin-bottom: 10px; font-size: 12pt; font-weight: bold;}/* used for the comments response to a question */
+
+/* spreadsheets */
+.ss-table { border: 1px solid; border-color:#fec800; border-collapse: collapse; }
+.ss-tr {  }
+.ss-tr:hover { background-color:#fec800; }
+.ss-td { border-color:#fec800; }
+.ss-th { border-color:#fec800; color: #000; background-color:#fff7db; text-align:center; }
+
+/* work scope */
+.workscope-table { border: 1px solid; border-color:#fec800; border-collapse: collapse; width:100%; }
+.workscope-table-header1 { background:#fff7db url(images/line.gif) repeat-x; width:9%; font-size: 12pt; font-weight: bold; padding:5px;  text-align:left; color: #000;  }
+.workscope-table-header2 { background:#fff7db url(images/line.gif) repeat-x; width:35%; font-size: 12pt; font-weight: bold; padding:5px;  text-align:left; color: #000; }
+.workscope-table-header3 { background:#fff7db url(images/line.gif) repeat-x; width:35%; font-size: 12pt; font-weight: bold; padding:5px;  text-align:right; color: #000; }
+.workscope-table-header4 { background:#fff7db url(images/line.gif) repeat-x; font-size: 12pt; font-weight: bold; padding:5px;  text-align:center; color: #000; }
+.workscope-entry-table { width:100%; page-break-inside:avoid; }
+.workscope-cell-jobname {  background:#fff7db; font-size: 12pt; padding:5px;  border-bottom: 1px solid #fec800; }
+.workscope-cell-jobest {  background:#fff7db; font-size: 12pt; padding:5px;  text-align:right; border-bottom: 1px solid #fec800;  }
+.workscope-cell-jobextra {   background:#fff7db; border-bottom: 1px solid #fec800; }
+.workscope-cell-priority {text-align: center; padding:5px; width: 9%; }
+.workscope-cell-name { font-size: 10pt; padding:5px; width:35%; font-weight:bold; }
+.workscope-cell-est { font-size: 10pt; padding:5px; text-align:right; width:35%; font-weight:bold; }
+.workscope-cell-desc { font-size: 10pt; padding:0px 5px 5px 5px; color:#555555;}
+.workscope-cell-xinfo { font-size: 10pt; padding:5px 5px 5px 5px; color:#555555; background-color:#ddd; }
+.workscope-cell-total { background:#fff7db url(images/line.gif) repeat-x; font-size: 12pt; padding:5px; text-align:right; border-top: 1px double #fec800; font-weight:bold; }
+.workscope-header { font-size: 9pt; }
+.workscope-header-spacer { padding: 5px; }
+.workscope-footer { font-size: 9pt; }
+.workscope-footer-spacer { padding: 5px; }
